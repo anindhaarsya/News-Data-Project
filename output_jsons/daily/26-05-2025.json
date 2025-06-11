@@ -1,0 +1,22 @@
+{
+  "date": "26-05-2025",
+  "totalNews": 215,
+  "totalPublishers": 1,
+  "totalEvents": 1,
+  "distributionChart": [
+    {
+      "title": "Russia says West's decision to lift range limits on weapons sent to Ukraine is 'dangerous'",
+      "articleCount": 215,
+      "percentage": "100.00%",
+      "dateTimePub": "2025-05-26T16:49:20Z",
+      "url": "https://www.thejournal.ie/russia-ukraine-range-limits-weapons-friedrich-merz-6715411-May2025/"
+    }
+  ],
+  "geoMapChart": [
+    {
+      "country": "Ireland",
+      "code": "IE",
+      "articleCount": 215
+    }
+  ]
+}

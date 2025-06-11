@@ -1,0 +1,89 @@
+{
+  "date": "25-04-2025",
+  "totalNews": 681,
+  "totalPublishers": 7,
+  "totalEvents": 7,
+  "distributionChart": [
+    {
+      "title": "Former ISRO chief K Kasturirangan dies at 84",
+      "articleCount": 187,
+      "percentage": "27.46%",
+      "dateTimePub": "2025-04-25T08:04:33Z",
+      "url": "https://telanganatoday.com/former-isro-chief-k-kasturirangan-dies-at-84"
+    },
+    {
+      "title": "US says blast near Yemen UNESCO world heritage site caused by Houthi missile",
+      "articleCount": 142,
+      "percentage": "20.85%",
+      "dateTimePub": "2025-04-25T03:31:00Z",
+      "url": "https://english.alarabiya.net/News/middle-east/2025/04/25/us-says-blast-near-yemen-unesco-world-heritage-site-caused-by-houthi-missile"
+    },
+    {
+      "title": "三亚舰、五指山舰，一\"舰\"倾心",
+      "articleCount": 93,
+      "percentage": "13.66%",
+      "dateTimePub": "2025-04-25T10:31:51Z",
+      "url": "https://baijiahao.baidu.com/s?id=1830358084505375087"
+    },
+    {
+      "title": "Oman plans 300 - 400km hydrogen pipeline by 2030",
+      "articleCount": 85,
+      "percentage": "12.48%",
+      "dateTimePub": "2025-04-25T06:25:30Z",
+      "url": "https://www.zawya.com/en/economy/gcc/oman-plans-300-400km-hydrogen-pipeline-by-2030-qo86xfsx"
+    },
+    {
+      "title": "This game-changing company has cracked the code on $0 solar panel installations  --  here's how to tap into major savings",
+      "articleCount": 84,
+      "percentage": "12.33%",
+      "dateTimePub": "2025-04-25T08:15:00Z",
+      "url": "https://www.thecooldown.com/green-home/leasingsolar-panels-homeowners-palmetto/"
+    },
+    {
+      "title": "A Thai police plane crashes in the sea, killing all 6 on board",
+      "articleCount": 53,
+      "percentage": "7.78%",
+      "dateTimePub": "2025-04-25T04:14:40Z",
+      "url": "https://www.winnipegfreepress.com/world/2025/04/24/a-thai-police-plane-crashes-in-the-sea-killing-all-6-on-board"
+    },
+    {
+      "title": "Start a Bitcoin Miner with Dogecoin (DOGE) to Earn $5700 a Day | Bitcoinist.com",
+      "articleCount": 37,
+      "percentage": "5.43%",
+      "dateTimePub": "2025-04-25T22:10:21Z",
+      "url": "https://bitcoinist.com/start-bitcoin-miner-with-dogecoin-doge-to-earn-5700-a-day/"
+    }
+  ],
+  "geoMapChart": [
+    {
+      "country": "China",
+      "code": "CN",
+      "articleCount": 93
+    },
+    {
+      "country": "India",
+      "code": "IN",
+      "articleCount": 187
+    },
+    {
+      "country": "Saudi Arabia",
+      "code": "SA",
+      "articleCount": 142
+    },
+    {
+      "country": "United Arab Emirates",
+      "code": "AE",
+      "articleCount": 85
+    },
+    {
+      "country": "United States",
+      "code": "US",
+      "articleCount": 121
+    },
+    {
+      "country": "Canada",
+      "code": "CA",
+      "articleCount": 53
+    }
+  ]
+}

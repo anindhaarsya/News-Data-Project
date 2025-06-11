@@ -1,0 +1,46 @@
+{
+  "date": "21-04-2025",
+  "totalNews": 505,
+  "totalPublishers": 3,
+  "totalEvents": 3,
+  "distributionChart": [
+    {
+      "title": "Trump administration to announce plan to remove artificial food dyes from US food supply",
+      "articleCount": 368,
+      "percentage": "72.87%",
+      "dateTimePub": "2025-04-21T16:46:03Z",
+      "url": "https://edition.cnn.com/2025/04/21/health/food-dye-removed-hhs-wellness/index.html"
+    },
+    {
+      "title": "Artificial Intelligence: The Hidden Enemy Consuming Our World?",
+      "articleCount": 105,
+      "percentage": "20.79%",
+      "dateTimePub": "2025-04-21T09:25:25Z",
+      "url": "https://www.raillynews.com/2025/04/Is-artificial-intelligence-the-hidden-enemy-that-is-consuming-our-world/"
+    },
+    {
+      "title": "Tinubu Abandons Nigeria's Electricity Challenges, Approves N10bn Solar Power For Aso Rock - OsunDefender",
+      "articleCount": 32,
+      "percentage": "6.34%",
+      "dateTimePub": "2025-04-21T14:06:19Z",
+      "url": "https://osundefender.com/tinubu-abandons-nigerias-electricity-challenges-approves-n10bn-solar-power-for-aso-rock/"
+    }
+  ],
+  "geoMapChart": [
+    {
+      "country": "United States",
+      "code": "US",
+      "articleCount": 368
+    },
+    {
+      "country": "Türkiye",
+      "code": "TR",
+      "articleCount": 105
+    },
+    {
+      "country": "Nigeria",
+      "code": "NG",
+      "articleCount": 32
+    }
+  ]
+}

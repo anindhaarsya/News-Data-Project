@@ -1,0 +1,74 @@
+{
+  "date": "22-04-2025",
+  "totalNews": 363,
+  "totalPublishers": 7,
+  "totalEvents": 7,
+  "distributionChart": [
+    {
+      "title": "In US, saving money is top reason to embrace solar power",
+      "articleCount": 133,
+      "percentage": "36.64%",
+      "dateTimePub": "2025-04-22T12:11:22Z",
+      "url": "https://www.eurekalert.org/news-releases/1081210"
+    },
+    {
+      "title": "Homeowner sparks heated debate after criticizing in-laws' outdated HVAC: 'I couldn't take it'",
+      "articleCount": 41,
+      "percentage": "11.29%",
+      "dateTimePub": "2025-04-22T07:10:00Z",
+      "url": "https://www.thecooldown.com/green-home/gas-furnace-vs-heat-pump-reddit/"
+    },
+    {
+      "title": "Sam Altman steps down as Oklo board chair, freeing nuclear startup to work with more AI companies",
+      "articleCount": 41,
+      "percentage": "11.29%",
+      "dateTimePub": "2025-04-22T20:08:34Z",
+      "url": "https://www.nbcboston.com/news/business/money-report/sam-altman-steps-down-as-oklo-board-chair-freeing-nuclear-startup-to-work-with-more-ai-companies/3692988/"
+    },
+    {
+      "title": "NOVAGOLD Resources and Paulson Advisers Announce $1 Billion Transaction to Acquire 50% of the Donlin Gold Project From Barrick",
+      "articleCount": 41,
+      "percentage": "11.29%",
+      "dateTimePub": "2025-04-22T11:34:07Z",
+      "url": "https://www.juniorminingnetwork.com/junior-miner-news/press-releases/1124-tsx/ng/178736-novagold-and-paulson-advisers-announce-1-billion-transaction-to-acquire-50-of-the-donlin-gold-project-from-barrick.html"
+    },
+    {
+      "title": "Water Woes: Opelousas Low Pressure & Boil Advisory",
+      "articleCount": 38,
+      "percentage": "10.47%",
+      "dateTimePub": "2025-04-22T17:30:00Z",
+      "url": "https://www.kadn.com/news/local/water-woes-opelousas-low-pressure-boil-advisory/article_9faf2b00-b490-11ee-8dd9-1b2d882d8b79.html"
+    },
+    {
+      "title": "Udangudi power plants to be commissioned by the end of 2025, says Electricity Minister",
+      "articleCount": 35,
+      "percentage": "9.64%",
+      "dateTimePub": "2025-04-22T18:46:36Z",
+      "url": "https://www.thehindu.com/news/cities/chennai/udangudi-power-plants-to-be-commissioned-by-the-end-of-2025-says-electricity-minister/article69478696.ece"
+    },
+    {
+      "title": "SpaceX launches Bandwagon-3 mission, European re-entry capsule",
+      "articleCount": 34,
+      "percentage": "9.37%",
+      "dateTimePub": "2025-04-22T09:42:50Z",
+      "url": "https://www.newsr.in/n/Science/1zs54dahoj/SpaceX-launches-Bandwagon-mission-European-re-entry.htm"
+    }
+  ],
+  "geoMapChart": [
+    {
+      "country": "United States",
+      "code": "US",
+      "articleCount": 253
+    },
+    {
+      "country": "Canada",
+      "code": "CA",
+      "articleCount": 41
+    },
+    {
+      "country": "India",
+      "code": "IN",
+      "articleCount": 69
+    }
+  ]
+}

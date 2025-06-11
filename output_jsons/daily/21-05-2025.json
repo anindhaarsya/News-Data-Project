@@ -1,0 +1,53 @@
+{
+  "date": "21-05-2025",
+  "totalNews": 1000,
+  "totalPublishers": 4,
+  "totalEvents": 4,
+  "distributionChart": [
+    {
+      "title": "All About Trump's Golden Dome Defence System, 1st US Weapon In Space",
+      "articleCount": 563,
+      "percentage": "56.30%",
+      "dateTimePub": "2025-05-21T02:52:38Z",
+      "url": "https://www.ndtv.com/world-news/all-about-trumps-golden-dome-defense-system-1st-us-weapon-in-space-8467125"
+    },
+    {
+      "title": "Pentagon says it has accepted Boeing jet from Qatar that will be used for Trump",
+      "articleCount": 251,
+      "percentage": "25.10%",
+      "dateTimePub": "2025-05-21T17:13:46Z",
+      "url": "https://www.cbsnews.com/newyork/news/qatar-jet-trump-boeing-pentagon/"
+    },
+    {
+      "title": "XRP Mining: One of The most trusted Bitcoin cloud mining platform in 2025, easily open the road to high-yield investment",
+      "articleCount": 116,
+      "percentage": "11.60%",
+      "dateTimePub": "2025-05-21T21:01:09Z",
+      "url": "https://coindoo.com/xrp-mining-one-of-the-most-trusted-bitcoin-cloud-mining-platform-in-2025-easily-open-the-road-to-high-yield-investment/"
+    },
+    {
+      "title": "US accepts luxury jet from Qatar for use as Air Force One for Trump",
+      "articleCount": 70,
+      "percentage": "7.00%",
+      "dateTimePub": "2025-05-21T16:40:00Z",
+      "url": "https://gazette.com/news/us-world/us-accepts-luxury-jet-from-qatar-for-use-as-air-force-one-for-trump/article_3f17f658-17a4-5689-a959-6ab0b234f415.html"
+    }
+  ],
+  "geoMapChart": [
+    {
+      "country": "India",
+      "code": "IN",
+      "articleCount": 563
+    },
+    {
+      "country": "United States",
+      "code": "US",
+      "articleCount": 321
+    },
+    {
+      "country": "Romania",
+      "code": "RO",
+      "articleCount": 116
+    }
+  ]
+}

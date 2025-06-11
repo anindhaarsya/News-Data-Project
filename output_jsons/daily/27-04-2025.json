@@ -1,0 +1,72 @@
+{
+  "date": "27-04-2025",
+  "totalNews": 522,
+  "totalPublishers": 6,
+  "totalEvents": 6,
+  "distributionChart": [
+    {
+      "title": "Amazon to launch 1st satellites into orbit: What to know about Project Kuiper",
+      "articleCount": 283,
+      "percentage": "54.21%",
+      "dateTimePub": "2025-04-27T14:00:27Z",
+      "url": "https://www.usatoday.com/story/news/nation/2025/04/27/amazon-rocket-launch-project-kuiper-satellites/83245277007/"
+    },
+    {
+      "title": "Times Investigation Into the Deadly Crash at National Airport: 5 Takeaways",
+      "articleCount": 74,
+      "percentage": "14.18%",
+      "dateTimePub": "2025-04-27T09:04:05Z",
+      "url": "https://www.nytimes.com/2025/04/27/us/politics/takeaways-investigation-airport-collision.html"
+    },
+    {
+      "title": "Indian Navy carries out anti-ship firing drills",
+      "articleCount": 63,
+      "percentage": "12.07%",
+      "dateTimePub": "2025-04-27T05:05:37Z",
+      "url": "https://www.newsdrum.in/national/indian-navy-carries-out-anti-ship-firing-drills-9006534"
+    },
+    {
+      "title": "US deploys NMESIS missile system during Balikatan 2025",
+      "articleCount": 42,
+      "percentage": "8.05%",
+      "dateTimePub": "2025-04-27T03:43:59Z",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/944101/us-deploys-nmesis-missile-system-during-balikatan-2025/story/"
+    },
+    {
+      "title": "China tops world in total nuclear energy for first time",
+      "articleCount": 30,
+      "percentage": "5.75%",
+      "dateTimePub": "2025-04-27T10:38:14Z",
+      "url": "https://www.saba.ye/en/news3471866.htm"
+    },
+    {
+      "title": "Amazon rocket launch, Atlas V liftoff from Cape Canaveral may be seen in Vero Beach, Fort Pierce",
+      "articleCount": 30,
+      "percentage": "5.75%",
+      "dateTimePub": "2025-04-27T09:05:09Z",
+      "url": "https://eu.tcpalm.com/story/news/2025/04/27/amazon-rocket-launch-florida-canaveral-vero-beach-fort-pierce-bezos/83266060007/"
+    }
+  ],
+  "geoMapChart": [
+    {
+      "country": "United States",
+      "code": "US",
+      "articleCount": 387
+    },
+    {
+      "country": "Yemen",
+      "code": "YE",
+      "articleCount": 30
+    },
+    {
+      "country": "India",
+      "code": "IN",
+      "articleCount": 63
+    },
+    {
+      "country": "Philippines",
+      "code": "PH",
+      "articleCount": 42
+    }
+  ]
+}

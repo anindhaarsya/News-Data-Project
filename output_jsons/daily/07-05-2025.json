@@ -1,0 +1,58 @@
+{
+  "date": "07-05-2025",
+  "totalNews": 342,
+  "totalPublishers": 4,
+  "totalEvents": 4,
+  "distributionChart": [
+    {
+      "title": "Ready in five minutes | Operation Sindoor: India's S-400 regiment to hit back if Pakistan... Know about missile defence system",
+      "articleCount": 117,
+      "percentage": "34.21%",
+      "dateTimePub": "2025-05-07T08:32:41Z",
+      "url": "https://www.wionews.com/india-news/operation-sindoor-pahalgam-terror-attack-indias-s-400-ready-if-pakistan-strikes-back-know-about-missile-defence-system-9043683"
+    },
+    {
+      "title": "Elcogen and Casale SA sign Memorandum of Understanding",
+      "articleCount": 106,
+      "percentage": "30.99%",
+      "dateTimePub": "2025-05-07T07:00:00Z",
+      "url": "https://www.finanzen.ch/nachrichten/aktien/elcogen-and-casale-sa-sign-memorandum-of-understanding-1034681834"
+    },
+    {
+      "title": "Energy Star, efficiency program that has steered consumer choice, targeted in cuts - WTOP News",
+      "articleCount": 95,
+      "percentage": "27.78%",
+      "dateTimePub": "2025-05-07T19:03:04Z",
+      "url": "https://wtop.com/consumer-news/2025/05/energy-star-efficiency-program-that-has-steered-consumer-choice-targeted-in-cuts/"
+    },
+    {
+      "title": "Spain's Sánchez defends energy model in wake of blackout",
+      "articleCount": 24,
+      "percentage": "7.02%",
+      "dateTimePub": "2025-05-07T16:39:07Z",
+      "url": "https://www.irishtimes.com/world/europe/2025/05/07/spain-portugal-power-blackout-energy-renewables/"
+    }
+  ],
+  "geoMapChart": [
+    {
+      "country": "India",
+      "code": "IN",
+      "articleCount": 117
+    },
+    {
+      "country": "Switzerland",
+      "code": "CH",
+      "articleCount": 106
+    },
+    {
+      "country": "United States",
+      "code": "US",
+      "articleCount": 95
+    },
+    {
+      "country": "Ireland",
+      "code": "IE",
+      "articleCount": 24
+    }
+  ]
+}

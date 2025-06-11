@@ -1,0 +1,22 @@
+{
+  "date": "24-05-2025",
+  "totalNews": 947,
+  "totalPublishers": 1,
+  "totalEvents": 1,
+  "distributionChart": [
+    {
+      "title": "Russia and Ukraine swap hundreds more prisoners, hours after a massive attack on Kyiv",
+      "articleCount": 947,
+      "percentage": "100.00%",
+      "dateTimePub": "2025-05-24T07:54:15Z",
+      "url": "https://www.washingtontimes.com/news/2025/may/24/ukraine-russia-swap-hundreds-prisoners-hours-massive-attack-kyiv/"
+    }
+  ],
+  "geoMapChart": [
+    {
+      "country": "United States",
+      "code": "US",
+      "articleCount": 947
+    }
+  ]
+}

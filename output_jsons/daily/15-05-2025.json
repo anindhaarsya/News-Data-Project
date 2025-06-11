@@ -1,0 +1,22 @@
+{
+  "date": "15-05-2025",
+  "totalNews": 160,
+  "totalPublishers": 1,
+  "totalEvents": 1,
+  "distributionChart": [
+    {
+      "title": "Amid Indo-Pak tensions, Border surveillance set to get boost, as ISRO readies for PSLV/EOS-09 mission",
+      "articleCount": 160,
+      "percentage": "100.00%",
+      "dateTimePub": "2025-05-15T11:13:05Z",
+      "url": "https://www.uniindia.com/~/amid-indo-pak-tensions-border-surveillance-set-to-get-boost-as-isro-readies-for-pslv-eos-09-mission/States/news/3464392.html"
+    }
+  ],
+  "geoMapChart": [
+    {
+      "country": "India",
+      "code": "IN",
+      "articleCount": 160
+    }
+  ]
+}

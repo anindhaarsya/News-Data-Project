@@ -1,0 +1,130 @@
+{
+  "date": "28-04-2025",
+  "totalNews": 1478,
+  "totalPublishers": 20,
+  "totalEvents": 25,
+  "distributionChart": [
+    {
+      "title": "Iran port fire extinguished as explosion death toll rises to at least 70",
+      "articleCount": 242,
+      "percentage": "16.37%",
+      "dateTimePub": "2025-04-28T18:23:27Z",
+      "url": "https://www.pbs.org/newshour/world/iran-port-fire-extinguished-as-explosion-death-toll-rises-to-at-least-70"
+    },
+    {
+      "title": "Unlocking Kazakhstan's hydrogen future, EU encouraged to increase support",
+      "articleCount": 155,
+      "percentage": "10.49%",
+      "dateTimePub": "2025-04-28T21:54:04Z",
+      "url": "https://www.euractiv.com/section/eet/news/unlocking-kazakhstans-hydrogen-future-eu-encouraged-to-increase-support/"
+    },
+    {
+      "title": "Blair demands net zero policy reset over 'credibility gap with voters' in blow to Miliband",
+      "articleCount": 123,
+      "percentage": "8.32%",
+      "dateTimePub": "2025-04-28T23:01:00Z",
+      "url": "https://ca.news.yahoo.com/blair-demands-net-zero-policy-230100891.html"
+    },
+    {
+      "title": "Ather Energy IPO Day 1: Live GMP Update, Full Listing Details, What Experts Say? Is Ather IPO Worth Bidding?",
+      "articleCount": 100,
+      "percentage": "6.77%",
+      "dateTimePub": "2025-04-28T04:56:37Z",
+      "url": "https://www.goodreturns.in/news/ather-energy-ipo-day-1-live-gmp-update-full-listing-details-expert-recommendations-is-ather-ipo-1423951.html?28042025103148"
+    },
+    {
+      "title": "Thousands of UK deaths per year may be linked to ultra-processed foods - study",
+      "articleCount": 94,
+      "percentage": "6.36%",
+      "dateTimePub": "2025-04-28T04:05:00Z",
+      "url": "https://ca.news.yahoo.com/thousands-uk-deaths-per-may-040500046.html"
+    },
+    {
+      "title": "China tops global ranking of overall nuclear power capacity, report says",
+      "articleCount": 92,
+      "percentage": "6.22%",
+      "dateTimePub": "2025-04-28T15:09:57Z",
+      "url": "https://www.chinadaily.com.cn/a/202504/28/WS680f9880a310a04af22bcace.html"
+    },
+    {
+      "title": "Thousands of households warned to make energy meter check or risk being cut off",
+      "articleCount": 66,
+      "percentage": "4.47%",
+      "dateTimePub": "2025-04-28T08:35:10Z",
+      "url": "https://www.thesun.co.uk/money/34620209/energy-meter-check-act-now-avoid-cut-off/"
+    },
+    {
+      "title": "Truth uncovered as report shows who erred in fatal Black Hawk crash",
+      "articleCount": 59,
+      "percentage": "3.99%",
+      "dateTimePub": "2025-04-28T10:20:46Z",
+      "url": "https://www.dailymail.co.uk/galleries/article-14654687/Truth-uncovered-report-shows-erred-fatal-Black-Hawk-crash.html"
+    },
+    {
+      "title": "Thousands of UK deaths per year may be linked to ultra-processed foods - study",
+      "articleCount": 59,
+      "percentage": "3.99%",
+      "dateTimePub": "2025-04-28T04:05:00Z",
+      "url": "https://ca.news.yahoo.com/thousands-uk-deaths-per-may-040500046.html"
+    },
+    {
+      "title": "Trump administration allows temporary sales of summertime...",
+      "articleCount": 54,
+      "percentage": "3.65%",
+      "dateTimePub": "2025-04-28T16:04:52Z",
+      "url": "https://www.dailymail.co.uk/wires/reuters/article-14656557/Trump-administration-allows-temporary-sales-summertime-higher-ethanol-fuel.html"
+    }
+  ],
+  "geoMapChart": [
+    {
+      "country": "United States",
+      "code": "US",
+      "articleCount": 644
+    },
+    {
+      "country": "Belgium",
+      "code": "BE",
+      "articleCount": 155
+    },
+    {
+      "country": "India",
+      "code": "IN",
+      "articleCount": 237
+    },
+    {
+      "country": "China",
+      "code": "CN",
+      "articleCount": 92
+    },
+    {
+      "country": "United Kingdom",
+      "code": "GB",
+      "articleCount": 210
+    },
+    {
+      "country": "Ireland",
+      "code": "IE",
+      "articleCount": 47
+    },
+    {
+      "country": "Germany",
+      "code": "DE",
+      "articleCount": 35
+    },
+    {
+      "country": "Canada",
+      "code": "CA",
+      "articleCount": 27
+    },
+    {
+      "country": "Ukraine",
+      "code": "UA",
+      "articleCount": 15
+    },
+    {
+      "country": "Russian Federation",
+      "code": "RU",
+      "articleCount": 16
+    }
+  ]
+}

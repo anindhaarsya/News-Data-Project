@@ -1,0 +1,22 @@
+{
+  "date": "03-05-2025",
+  "totalNews": 237,
+  "totalPublishers": 1,
+  "totalEvents": 1,
+  "distributionChart": [
+    {
+      "title": "Pakistan test-fires ballistic missile as tensions with India rise - RocketNews",
+      "articleCount": 237,
+      "percentage": "100.00%",
+      "dateTimePub": "2025-05-03T10:35:24Z",
+      "url": "https://rocketnews.com/2025/05/pakistan-test-fires-ballistic-missile-as-tensions-with-india-rise/"
+    }
+  ],
+  "geoMapChart": [
+    {
+      "country": "Japan",
+      "code": "JP",
+      "articleCount": 237
+    }
+  ]
+}

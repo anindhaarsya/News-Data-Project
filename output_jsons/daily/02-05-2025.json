@@ -1,0 +1,22 @@
+{
+  "date": "02-05-2025",
+  "totalNews": 100,
+  "totalPublishers": 1,
+  "totalEvents": 1,
+  "distributionChart": [
+    {
+      "title": "Orion Artemis II Moon spacecraft completes testing | Aerospace Testing International",
+      "articleCount": 100,
+      "percentage": "100.00%",
+      "dateTimePub": "2025-05-02T10:18:32Z",
+      "url": "https://www.aerospacetestinginternational.com/news/orion-artemis-ii-moon-spacecraft-completes-testing.html"
+    }
+  ],
+  "geoMapChart": [
+    {
+      "country": "United Kingdom",
+      "code": "GB",
+      "articleCount": 100
+    }
+  ]
+}

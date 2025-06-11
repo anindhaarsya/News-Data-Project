@@ -1,0 +1,60 @@
+{
+  "date": "23-05-2025",
+  "totalNews": 808,
+  "totalPublishers": 5,
+  "totalEvents": 5,
+  "distributionChart": [
+    {
+      "title": "Who Is Music Agent And Pilot Dave Shapiro, Co-owner Of Sound Talent Group Who Died In Cessna 500 San Diego Plane Crash - The SportsGrail",
+      "articleCount": 310,
+      "percentage": "38.37%",
+      "dateTimePub": "2025-05-23T11:10:36Z",
+      "url": "https://thesportsgrail.com/who-is-music-agent-and-pilot-dave-shapiro-co-owner-of-sound-talent-group-who-died-in-cessna-500-san-diego-plane-crash/"
+    },
+    {
+      "title": "Trump signs executive orders to boost nuclear power, speed up approvals",
+      "articleCount": 200,
+      "percentage": "24.75%",
+      "dateTimePub": "2025-05-23T22:20:46Z",
+      "url": "https://www.stamfordadvocate.com/business/article/trump-signs-executive-orders-to-boost-nuclear-20343171.php"
+    },
+    {
+      "title": "XRP Mining: Best Free Bitcoin and Dogecoin Cloud Mining Platform Regulated in the UK | Business Upturn",
+      "articleCount": 106,
+      "percentage": "13.12%",
+      "dateTimePub": "2025-05-23T14:00:00Z",
+      "url": "https://www.businessupturn.com/brand-post/xrp-mining-best-free-bitcoin-and-dogecoin-cloud-mining-platform-regulated-in-the-uk/"
+    },
+    {
+      "title": "South African mining company says 289 workers trapped in gold mine",
+      "articleCount": 97,
+      "percentage": "12.00%",
+      "dateTimePub": "2025-05-23T09:39:11Z",
+      "url": "https://www.indiatoday.in/world/story/south-african-mining-company-sibanye-says-workers-trapped-gold-mine-2729409-2025-05-23"
+    },
+    {
+      "title": "Household energy bills to fall by 7 from July, Ofgem says",
+      "articleCount": 95,
+      "percentage": "11.76%",
+      "dateTimePub": "2025-05-23T06:26:38Z",
+      "url": "https://www.ayradvertiser.com/news/national/25185714.household-energy-bills-fall-7-july-ofgem-says/"
+    }
+  ],
+  "geoMapChart": [
+    {
+      "country": "India",
+      "code": "IN",
+      "articleCount": 513
+    },
+    {
+      "country": "United States",
+      "code": "US",
+      "articleCount": 200
+    },
+    {
+      "country": "United Kingdom",
+      "code": "GB",
+      "articleCount": 95
+    }
+  ]
+}

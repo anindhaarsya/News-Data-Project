@@ -1,0 +1,34 @@
+{
+  "date": "20-05-2025",
+  "totalNews": 278,
+  "totalPublishers": 2,
+  "totalEvents": 2,
+  "distributionChart": [
+    {
+      "title": "'Disappointing' hydrogen sector needs government backing",
+      "articleCount": 155,
+      "percentage": "55.76%",
+      "dateTimePub": "2025-05-20T09:53:10Z",
+      "url": "https://www.energyvoice.com/renewables-energy-transition/hydrogen/572947/hydrogen-sector-needs-government-backing/"
+    },
+    {
+      "title": "Trump says his Golden Dome missile defence program will include Canada",
+      "articleCount": 123,
+      "percentage": "44.24%",
+      "dateTimePub": "2025-05-20T20:36:24Z",
+      "url": "https://lethbridgeherald.com/news/national-news/2025/05/20/trump-says-his-golden-dome-missile-defence-program-will-include-canada/"
+    }
+  ],
+  "geoMapChart": [
+    {
+      "country": "United Kingdom",
+      "code": "GB",
+      "articleCount": 155
+    },
+    {
+      "country": "Canada",
+      "code": "CA",
+      "articleCount": 123
+    }
+  ]
+}

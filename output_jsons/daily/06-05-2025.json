@@ -1,0 +1,22 @@
+{
+  "date": "06-05-2025",
+  "totalNews": 139,
+  "totalPublishers": 1,
+  "totalEvents": 1,
+  "distributionChart": [
+    {
+      "title": "Soviet spacecraft bound for Venus got stuck in Earth's orbit for 50 years and now threatens us",
+      "articleCount": 139,
+      "percentage": "100.00%",
+      "dateTimePub": "2025-05-06T02:17:32Z",
+      "url": "https://economictimes.indiatimes.com/news/international/canada/soviet-spacecraft-bound-for-venus-got-stuck-in-earths-orbit-for-50-years-and-now-threatens-us/articleshow/120923819.cms"
+    }
+  ],
+  "geoMapChart": [
+    {
+      "country": "India",
+      "code": "IN",
+      "articleCount": 139
+    }
+  ]
+}

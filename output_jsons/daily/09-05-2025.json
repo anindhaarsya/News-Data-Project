@@ -1,0 +1,41 @@
+{
+  "date": "09-05-2025",
+  "totalNews": 523,
+  "totalPublishers": 3,
+  "totalEvents": 3,
+  "distributionChart": [
+    {
+      "title": "Indian Army successfully repels drone attacks, retaliates against ceasefire violations by Pakistan along LoC",
+      "articleCount": 194,
+      "percentage": "37.09%",
+      "dateTimePub": "2025-05-09T02:56:04Z",
+      "url": "https://www.aninews.in/news/national/general-news/indian-army-successfully-repels-drone-attacks-retaliates-against-ceasefire-violations-by-pakistan-along-loc20250509082536/"
+    },
+    {
+      "title": "Pak used Turkish Asisguard Songar drones to attack India",
+      "articleCount": 169,
+      "percentage": "32.31%",
+      "dateTimePub": "2025-05-09T14:06:14Z",
+      "url": "https://www.rediff.com/news/report/pak-used-turkish-asisguard-songar-drones-to-attack-india/20250509.htm"
+    },
+    {
+      "title": "Woman armed with pellet shotgun shoots deputies south of Payson",
+      "articleCount": 160,
+      "percentage": "30.59%",
+      "dateTimePub": "2025-05-09T04:36:14Z",
+      "url": "https://www.azfamily.com/video/2025/05/09/woman-armed-with-pellet-shotgun-shoots-deputies-south-payson/"
+    }
+  ],
+  "geoMapChart": [
+    {
+      "country": "India",
+      "code": "IN",
+      "articleCount": 363
+    },
+    {
+      "country": "United States",
+      "code": "US",
+      "articleCount": 160
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "date": "14-05-2025",
+  "totalNews": 1119,
+  "totalPublishers": 2,
+  "totalEvents": 2,
+  "distributionChart": [
+    {
+      "title": "'Only a fool would...': Trump says $400-mn Qatar jet more 'impressive' than outdated Air Force One",
+      "articleCount": 1009,
+      "percentage": "90.17%",
+      "dateTimePub": "2025-05-14T03:51:48Z",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-news-trump-says-400-mn-qatar-jet-more-impressive-than-outdated-air-force-one-only-a-fool-would-not-accept-it/articleshow/121159724.cms"
+    },
+    {
+      "title": "Op Sindoor: How India's tech outsmarted Pak defences",
+      "articleCount": 110,
+      "percentage": "9.83%",
+      "dateTimePub": "2025-05-14T18:14:29Z",
+      "url": "https://www.rediff.com/news/report/op-sindoor-how-indias-tech-outsmarted-pak-defences/20250514.htm"
+    }
+  ],
+  "geoMapChart": [
+    {
+      "country": "India",
+      "code": "IN",
+      "articleCount": 1119
+    }
+  ]
+}

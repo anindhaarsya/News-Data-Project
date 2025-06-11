@@ -1,0 +1,573 @@
+{
+  "startDate": "2025-04-21",
+  "endDate": "2025-04-27",
+  "totalNews": 11254,
+  "totalPublishers": 144,
+  "totalEvents": 102,
+  "distributionChart": [
+    {
+      "original_title": "Massive explosion rocks Iran as four are killed",
+      "articleCount": 1072,
+      "dateTimePub": "2025-04-26T14:49:03Z",
+      "url": "https://www.dailymail.co.uk/news/article-14650603/Iran-explosion-people-killed-injured.html",
+      "source": "Daily Mail Online",
+      "percentage": "31.24%"
+    },
+    {
+      "original_title": "Trump administration to announce plan to remove artificial food dyes from US food supply",
+      "articleCount": 368,
+      "dateTimePub": "2025-04-21T16:46:03Z",
+      "url": "https://edition.cnn.com/2025/04/21/health/food-dye-removed-hhs-wellness/index.html",
+      "source": "CNN International",
+      "percentage": "10.73%"
+    },
+    {
+      "original_title": "现场视频：伊朗阿巴斯港发生高强度爆炸，造成大面积破坏",
+      "articleCount": 347,
+      "dateTimePub": "2025-04-26T10:02:39Z",
+      "url": "https://news.ifeng.com/c/8is0yvG0v30",
+      "source": "凤凰网（凤凰新媒体）",
+      "percentage": "10.11%"
+    },
+    {
+      "original_title": "Amazon to launch 1st satellites into orbit: What to know about Project Kuiper",
+      "articleCount": 283,
+      "dateTimePub": "2025-04-27T14:00:27Z",
+      "url": "https://www.usatoday.com/story/news/nation/2025/04/27/amazon-rocket-launch-project-kuiper-satellites/83245277007/",
+      "source": "USA Today",
+      "percentage": "8.25%"
+    },
+    {
+      "original_title": "Число погибших в результате взрыва в Иране достигло 25, пострадали 1139 человек -ВИДЕО-ОБНОВЛЕНО",
+      "articleCount": 274,
+      "dateTimePub": "2025-04-27T07:09:01Z",
+      "url": "https://ru.apa.az/aziya/cislo-pogibsix-v-rezultate-vzryva-v-irane-dostiglo-25-postradali-1139-celovek-video-obnovleno-608811",
+      "source": "Azeri - Press Informasiya Agentliyi",
+      "percentage": "7.99%"
+    },
+    {
+      "original_title": "Iran port fire extinguished as explosion death toll rises to at least 70",
+      "articleCount": 242,
+      "dateTimePub": "2025-04-28T18:23:27Z",
+      "url": "https://www.pbs.org/newshour/world/iran-port-fire-extinguished-as-explosion-death-toll-rises-to-at-least-70",
+      "source": "PBS.org",
+      "percentage": "7.05%"
+    },
+    {
+      "original_title": "\"Puissante explosion\" dans un port important du sud du pays",
+      "articleCount": 239,
+      "dateTimePub": "2025-04-26T10:09:47Z",
+      "url": "https://www.lessentiel.lu/fr/story/iran-puissante-explosion-dans-un-port-important-du-sud-du-pays-103331931",
+      "source": "L'essentiel",
+      "percentage": "6.97%"
+    },
+    {
+      "original_title": "Veteran Chinese astronaut to lead fresh crew to space station",
+      "articleCount": 224,
+      "dateTimePub": "2025-04-23T05:28:22Z",
+      "url": "https://www.yahoo.com/news/veteran-chinese-astronaut-lead-fresh-052822095.html",
+      "source": "Yahoo",
+      "percentage": "6.53%"
+    },
+    {
+      "original_title": "United Launch Alliance rocket delivers Amazon satellites to orbit after Florida liftoff: Photos",
+      "articleCount": 195,
+      "dateTimePub": "2025-04-29T12:41:12Z",
+      "url": "https://www.yahoo.com/news/united-launch-alliance-rocket-delivers-124112635.html",
+      "source": "Yahoo",
+      "percentage": "5.68%"
+    },
+    {
+      "original_title": "Former ISRO chief K Kasturirangan dies at 84",
+      "articleCount": 187,
+      "dateTimePub": "2025-04-25T08:04:33Z",
+      "url": "https://telanganatoday.com/former-isro-chief-k-kasturirangan-dies-at-84",
+      "source": "Telangana Today",
+      "percentage": "5.45%"
+    }
+  ],
+  "geoMapChart": [
+    {
+      "country": "United States",
+      "countryCode": "us",
+      "articleCount": 3233
+    },
+    {
+      "country": "United Kingdom",
+      "countryCode": "gb",
+      "articleCount": 2078
+    },
+    {
+      "country": "India",
+      "countryCode": "in",
+      "articleCount": 1490
+    },
+    {
+      "country": "Unknown",
+      "countryCode": "un",
+      "articleCount": 1106
+    },
+    {
+      "country": "Azerbaijan",
+      "countryCode": "az",
+      "articleCount": 327
+    },
+    {
+      "country": "France",
+      "countryCode": "fr",
+      "articleCount": 286
+    },
+    {
+      "country": "Luxembourg",
+      "countryCode": "lu",
+      "articleCount": 239
+    },
+    {
+      "country": "Ukraine",
+      "countryCode": "ua",
+      "articleCount": 217
+    },
+    {
+      "country": "South Africa",
+      "countryCode": "za",
+      "articleCount": 216
+    },
+    {
+      "country": "Germany",
+      "countryCode": "de",
+      "articleCount": 213
+    },
+    {
+      "country": "Canada",
+      "countryCode": "ca",
+      "articleCount": 204
+    },
+    {
+      "country": "China",
+      "countryCode": "cn",
+      "articleCount": 185
+    },
+    {
+      "country": "Belgium",
+      "countryCode": "be",
+      "articleCount": 155
+    },
+    {
+      "country": "Korea, Republic of",
+      "countryCode": "kr",
+      "articleCount": 154
+    },
+    {
+      "country": "Saudi Arabia",
+      "countryCode": "sa",
+      "articleCount": 152
+    },
+    {
+      "country": "Pakistan",
+      "countryCode": "pk",
+      "articleCount": 123
+    },
+    {
+      "country": "United Arab Emirates",
+      "countryCode": "ae",
+      "articleCount": 116
+    },
+    {
+      "country": "Singapore",
+      "countryCode": "sg",
+      "articleCount": 101
+    },
+    {
+      "country": "Australia",
+      "countryCode": "au",
+      "articleCount": 81
+    },
+    {
+      "country": "Nigeria",
+      "countryCode": "ng",
+      "articleCount": 75
+    },
+    {
+      "country": "Spain",
+      "countryCode": "es",
+      "articleCount": 70
+    },
+    {
+      "country": "Israel",
+      "countryCode": "il",
+      "articleCount": 70
+    },
+    {
+      "country": "Italy",
+      "countryCode": "it",
+      "articleCount": 65
+    },
+    {
+      "country": "Philippines",
+      "countryCode": "ph",
+      "articleCount": 63
+    },
+    {
+      "country": "Ireland",
+      "countryCode": "ie",
+      "articleCount": 47
+    },
+    {
+      "country": "Denmark",
+      "countryCode": "dk",
+      "articleCount": 43
+    },
+    {
+      "country": "Iran, Islamic Republic of",
+      "countryCode": "ir",
+      "articleCount": 34
+    },
+    {
+      "country": "Croatia",
+      "countryCode": "hr",
+      "articleCount": 31
+    },
+    {
+      "country": "Yemen",
+      "countryCode": "ye",
+      "articleCount": 30
+    },
+    {
+      "country": "Chile",
+      "countryCode": "cl",
+      "articleCount": 20
+    },
+    {
+      "country": "Peru",
+      "countryCode": "pe",
+      "articleCount": 13
+    },
+    {
+      "country": "Argentina",
+      "countryCode": "ar",
+      "articleCount": 9
+    },
+    {
+      "country": "Brazil",
+      "countryCode": "br",
+      "articleCount": 8
+    }
+  ],
+  "weeklyEntityData": [
+    {
+      "day": 1,
+      "data": [
+        {
+          "title": "China",
+          "count": 4
+        },
+        {
+          "title": "Trump",
+          "count": 3
+        },
+        {
+          "title": "Amazon",
+          "count": 3
+        },
+        {
+          "title": "UK",
+          "count": 2
+        },
+        {
+          "title": "US",
+          "count": 2
+        },
+        {
+          "title": "Spain",
+          "count": 2
+        },
+        {
+          "title": "Portugal",
+          "count": 2
+        },
+        {
+          "title": "Iran",
+          "count": 1
+        },
+        {
+          "title": "fire",
+          "count": 1
+        },
+        {
+          "title": "explosion",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "data": [
+        {
+          "title": "US",
+          "count": 8
+        },
+        {
+          "title": "Spain",
+          "count": 5
+        },
+        {
+          "title": "Portugal",
+          "count": 4
+        },
+        {
+          "title": "Iran",
+          "count": 4
+        },
+        {
+          "title": "100 Days",
+          "count": 4
+        },
+        {
+          "title": "China",
+          "count": 3
+        },
+        {
+          "title": "GW Solar Power",
+          "count": 2
+        },
+        {
+          "title": "Africa",
+          "count": 2
+        },
+        {
+          "title": "Africa.com",
+          "count": 2
+        },
+        {
+          "title": "Middle class",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "data": [
+        {
+          "title": "China",
+          "count": 3
+        },
+        {
+          "title": "Earth",
+          "count": 2
+        },
+        {
+          "title": "six months",
+          "count": 2
+        },
+        {
+          "title": "Spain",
+          "count": 1
+        },
+        {
+          "title": "Blackout Reveals the Achilles",
+          "count": 1
+        },
+        {
+          "title": "Portugal",
+          "count": 1
+        },
+        {
+          "title": "North Korea",
+          "count": 1
+        },
+        {
+          "title": "Russia",
+          "count": 1
+        },
+        {
+          "title": "Times of India",
+          "count": 1
+        },
+        {
+          "title": "Haryana",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "data": [
+        {
+          "title": "Trump",
+          "count": 2
+        },
+        {
+          "title": "Virginia",
+          "count": 1
+        },
+        {
+          "title": "Rob Holland",
+          "count": 1
+        },
+        {
+          "title": "Langley AFB",
+          "count": 1
+        },
+        {
+          "title": "pilot",
+          "count": 1
+        },
+        {
+          "title": "plane crash",
+          "count": 1
+        },
+        {
+          "title": "her",
+          "count": 1
+        },
+        {
+          "title": "Katy Perry",
+          "count": 1
+        },
+        {
+          "title": "Camila Cabello",
+          "count": 1
+        },
+        {
+          "title": "Lockheed Martin",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "data": [
+        {
+          "title": "K Kasturirangan",
+          "count": 1
+        },
+        {
+          "title": "ISRO",
+          "count": 1
+        },
+        {
+          "title": "UNESCO",
+          "count": 1
+        },
+        {
+          "title": "Houthi",
+          "count": 1
+        },
+        {
+          "title": "Yemen",
+          "count": 1
+        },
+        {
+          "title": "US",
+          "count": 1
+        },
+        {
+          "title": "Rob Holland",
+          "count": 1
+        },
+        {
+          "title": "Oman",
+          "count": 1
+        },
+        {
+          "title": "$0",
+          "count": 1
+        },
+        {
+          "title": "Thai",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "data": [
+        {
+          "title": "Iran",
+          "count": 3
+        },
+        {
+          "title": "explosion",
+          "count": 2
+        },
+        {
+          "title": "Renascença",
+          "count": 1
+        },
+        {
+          "title": "Explosion",
+          "count": 1
+        },
+        {
+          "title": "Bandar Abbas",
+          "count": 1
+        },
+        {
+          "title": "Najmanje",
+          "count": 1
+        },
+        {
+          "title": "leader",
+          "count": 1
+        },
+        {
+          "title": "US",
+          "count": 1
+        },
+        {
+          "title": "Kim Jong Un",
+          "count": 1
+        },
+        {
+          "title": "North Korean",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "data": [
+        {
+          "title": "Amazon",
+          "count": 2
+        },
+        {
+          "title": "China",
+          "count": 2
+        },
+        {
+          "title": "1st",
+          "count": 1
+        },
+        {
+          "title": "Crash",
+          "count": 1
+        },
+        {
+          "title": "National Airport",
+          "count": 1
+        },
+        {
+          "title": "first",
+          "count": 1
+        },
+        {
+          "title": "diz Pequim",
+          "count": 1
+        },
+        {
+          "title": "Vero Beach",
+          "count": 1
+        },
+        {
+          "title": "Fort Pierce",
+          "count": 1
+        },
+        {
+          "title": "Cape Canaveral",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

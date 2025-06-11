@@ -1,0 +1,34 @@
+{
+  "date": "25-05-2025",
+  "totalNews": 134,
+  "totalPublishers": 2,
+  "totalEvents": 2,
+  "distributionChart": [
+    {
+      "title": "Збито 45 крилатих ракет, знешкоджено 266 ворожих БПЛА - Новости Весь Харьков",
+      "articleCount": 76,
+      "percentage": "56.72%",
+      "dateTimePub": "2025-05-25T06:16:00Z",
+      "url": "https://allkharkov.ua/news/pro/zbito-45-krilatih-raket-zneshkodjeno-266-vorojih-bpla.html"
+    },
+    {
+      "title": "Sirens in Jerusalem as Israel says intercepted Yemen missile",
+      "articleCount": 58,
+      "percentage": "43.28%",
+      "dateTimePub": "2025-05-25T08:59:10Z",
+      "url": "http://www.naharnet.com/stories/en/313016"
+    }
+  ],
+  "geoMapChart": [
+    {
+      "country": "Lebanon",
+      "code": "LB",
+      "articleCount": 58
+    },
+    {
+      "country": "Ukraine",
+      "code": "UA",
+      "articleCount": 76
+    }
+  ]
+}

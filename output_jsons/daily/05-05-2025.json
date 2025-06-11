@@ -1,0 +1,48 @@
+{
+  "date": "05-05-2025",
+  "totalNews": 540,
+  "totalPublishers": 4,
+  "totalEvents": 4,
+  "distributionChart": [
+    {
+      "title": "New survey reveals Americans' surprising opinions on solar energy  --  here's what 75% of homeowners said",
+      "articleCount": 159,
+      "percentage": "29.44%",
+      "dateTimePub": "2025-05-05T07:00:00Z",
+      "url": "https://www.thecooldown.com/green-home/solar-panel-installation-homeowner-survey/"
+    },
+    {
+      "title": "Renewable Energy Key To Nigeria's Nat'l Policy Agenda - Abbas",
+      "articleCount": 143,
+      "percentage": "26.48%",
+      "dateTimePub": "2025-05-05T15:43:44Z",
+      "url": "https://newtelegraphng.com/renewable-energy-key-to-nigerias-natl-policy-agenda-abbas/"
+    },
+    {
+      "title": "States sue Trump administration for blocking the development of wind energy",
+      "articleCount": 129,
+      "percentage": "23.89%",
+      "dateTimePub": "2025-05-05T17:10:00Z",
+      "url": "https://www.postandcourier.com/ap/business/states-sue-trump-administration-for-blocking-the-development-of-wind-energy/article_4a182319-a9bc-51d0-8334-6b4fc6335d2f.html"
+    },
+    {
+      "title": "Trump follows Biden's lead on nuclear; Maryland, other states seem to be listening",
+      "articleCount": 109,
+      "percentage": "20.19%",
+      "dateTimePub": "2025-05-05T16:29:16Z",
+      "url": "https://www.baltimoresun.com/2025/05/05/trump-follows-bidens-lead-on-nuclear-maryland-other-states-seem-to-be-listening/"
+    }
+  ],
+  "geoMapChart": [
+    {
+      "country": "United States",
+      "code": "US",
+      "articleCount": 397
+    },
+    {
+      "country": "Nigeria",
+      "code": "NG",
+      "articleCount": 143
+    }
+  ]
+}

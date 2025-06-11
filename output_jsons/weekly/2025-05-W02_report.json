@@ -1,0 +1,323 @@
+{
+  "startDate": "2025-05-05",
+  "endDate": "2025-05-11",
+  "totalNews": 4388,
+  "totalPublishers": 16,
+  "totalEvents": 18,
+  "distributionChart": [
+    {
+      "original_title": "India says it is committed to non-escalation if Pakistan reciprocates",
+      "articleCount": 2189,
+      "dateTimePub": "2025-05-10T06:20:09Z",
+      "url": "https://www.shropshirestar.com/world-news/2025/05/10/india-says-it-is-committed-to-non-escalation-if-pakistan-reciprocates/",
+      "source": "Shropshire Star",
+      "percentage": "60.52%"
+    },
+    {
+      "original_title": "Indian Army successfully repels drone attacks, retaliates against ceasefire violations by Pakistan along LoC",
+      "articleCount": 194,
+      "dateTimePub": "2025-05-09T02:56:04Z",
+      "url": "https://www.aninews.in/news/national/general-news/indian-army-successfully-repels-drone-attacks-retaliates-against-ceasefire-violations-by-pakistan-along-loc20250509082536/",
+      "source": "Asian News International (ANI)",
+      "percentage": "5.36%"
+    },
+    {
+      "original_title": "Pak used Turkish Asisguard Songar drones to attack India",
+      "articleCount": 169,
+      "dateTimePub": "2025-05-09T14:06:14Z",
+      "url": "https://www.rediff.com/news/report/pak-used-turkish-asisguard-songar-drones-to-attack-india/20250509.htm",
+      "source": "Rediff.com India Ltd.",
+      "percentage": "4.67%"
+    },
+    {
+      "original_title": "Woman armed with pellet shotgun shoots deputies south of Payson",
+      "articleCount": 160,
+      "dateTimePub": "2025-05-09T04:36:14Z",
+      "url": "https://www.azfamily.com/video/2025/05/09/woman-armed-with-pellet-shotgun-shoots-deputies-south-payson/",
+      "source": "AZfamily.com",
+      "percentage": "4.42%"
+    },
+    {
+      "original_title": "New survey reveals Americans' surprising opinions on solar energy  --  here's what 75% of homeowners said",
+      "articleCount": 159,
+      "dateTimePub": "2025-05-05T07:00:00Z",
+      "url": "https://www.thecooldown.com/green-home/solar-panel-installation-homeowner-survey/",
+      "source": "The Cool Down",
+      "percentage": "4.40%"
+    },
+    {
+      "original_title": "IAF strikes 11 Pakistani airbases, inflicts severe damage; Targets include Nur Khan, Sargodha, and Skardu",
+      "articleCount": 159,
+      "dateTimePub": "2025-05-10T14:29:42Z",
+      "url": "https://economictimes.indiatimes.com/news/defence/india-pakistan-ceasefire-iaf-strikes-11-pakistani-airbases-inflicts-severe-damage-targets-include-nur-khan-sargodha-and-skardu/articleshow/121060642.cms",
+      "source": "Economic Times",
+      "percentage": "4.40%"
+    },
+    {
+      "original_title": "North Korea fires short-range missiles in performance test",
+      "articleCount": 154,
+      "dateTimePub": "2025-05-08T05:43:50Z",
+      "url": "https://dailypost.ng/2025/05/08/north-korea-fires-short-range-missiles-in-performance-test/",
+      "source": "Daily Post Nigeria",
+      "percentage": "4.26%"
+    },
+    {
+      "original_title": "India's defence arsenal expands as BrahMos production unit and key military projects set for inauguration in Lucknow today",
+      "articleCount": 151,
+      "dateTimePub": "2025-05-11T03:23:53Z",
+      "url": "https://economictimes.indiatimes.com/news/defence/indias-defence-arsenal-expands-as-brahmos-production-unit-and-key-military-projects-set-for-inauguration-in-lucknow-today/articleshow/121071455.cms",
+      "source": "Economic Times",
+      "percentage": "4.17%"
+    },
+    {
+      "original_title": "Renewable Energy Key To Nigeria's Nat'l Policy Agenda - Abbas",
+      "articleCount": 143,
+      "dateTimePub": "2025-05-05T15:43:44Z",
+      "url": "https://newtelegraphng.com/renewable-energy-key-to-nigerias-natl-policy-agenda-abbas/",
+      "source": "New Telegraph",
+      "percentage": "3.95%"
+    },
+    {
+      "original_title": "Soviet spacecraft bound for Venus got stuck in Earth's orbit for 50 years and now threatens us",
+      "articleCount": 139,
+      "dateTimePub": "2025-05-06T02:17:32Z",
+      "url": "https://economictimes.indiatimes.com/news/international/canada/soviet-spacecraft-bound-for-venus-got-stuck-in-earths-orbit-for-50-years-and-now-threatens-us/articleshow/120923819.cms",
+      "source": "Economic Times",
+      "percentage": "3.84%"
+    }
+  ],
+  "geoMapChart": [
+    {
+      "country": "United Kingdom",
+      "countryCode": "gb",
+      "articleCount": 2189
+    },
+    {
+      "country": "India",
+      "countryCode": "in",
+      "articleCount": 929
+    },
+    {
+      "country": "United States",
+      "countryCode": "us",
+      "articleCount": 746
+    },
+    {
+      "country": "Nigeria",
+      "countryCode": "ng",
+      "articleCount": 297
+    },
+    {
+      "country": "Switzerland",
+      "countryCode": "ch",
+      "articleCount": 106
+    },
+    {
+      "country": "Bangladesh",
+      "countryCode": "bd",
+      "articleCount": 97
+    },
+    {
+      "country": "Ireland",
+      "countryCode": "ie",
+      "articleCount": 24
+    }
+  ],
+  "weeklyEntityData": [
+    {
+      "day": 1,
+      "data": [
+        {
+          "title": "Trump",
+          "count": 2
+        },
+        {
+          "title": "75%",
+          "count": 1
+        },
+        {
+          "title": "Americans",
+          "count": 1
+        },
+        {
+          "title": "Abbas",
+          "count": 1
+        },
+        {
+          "title": "Nigeria",
+          "count": 1
+        },
+        {
+          "title": "Biden",
+          "count": 1
+        },
+        {
+          "title": "Maryland",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "data": [
+        {
+          "title": "Earth",
+          "count": 1
+        },
+        {
+          "title": "Venus",
+          "count": 1
+        },
+        {
+          "title": "50 years",
+          "count": 1
+        },
+        {
+          "title": "Soviet",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "data": [
+        {
+          "title": "India",
+          "count": 1
+        },
+        {
+          "title": "five minutes",
+          "count": 1
+        },
+        {
+          "title": "Pakistan",
+          "count": 1
+        },
+        {
+          "title": "Casale SA",
+          "count": 1
+        },
+        {
+          "title": "Elcogen",
+          "count": 1
+        },
+        {
+          "title": "WTOP News",
+          "count": 1
+        },
+        {
+          "title": "Energy Star",
+          "count": 1
+        },
+        {
+          "title": "Spain",
+          "count": 1
+        },
+        {
+          "title": "Sánchez",
+          "count": 1
+        },
+        {
+          "title": "model",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "data": [
+        {
+          "title": "North Korea",
+          "count": 1
+        },
+        {
+          "title": "India",
+          "count": 1
+        },
+        {
+          "title": "first",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "data": [
+        {
+          "title": "Indian Army",
+          "count": 1
+        },
+        {
+          "title": "Pakistan",
+          "count": 1
+        },
+        {
+          "title": "attacks",
+          "count": 1
+        },
+        {
+          "title": "India",
+          "count": 1
+        },
+        {
+          "title": "Turkish",
+          "count": 1
+        },
+        {
+          "title": "Pak",
+          "count": 1
+        },
+        {
+          "title": "Payson",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "data": [
+        {
+          "title": "India",
+          "count": 1
+        },
+        {
+          "title": "Pakistan",
+          "count": 1
+        },
+        {
+          "title": "Nur Khan",
+          "count": 1
+        },
+        {
+          "title": "Pakistani",
+          "count": 1
+        },
+        {
+          "title": "Skardu",
+          "count": 1
+        },
+        {
+          "title": "IAF",
+          "count": 1
+        },
+        {
+          "title": "Sargodha",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "data": [
+        {
+          "title": "India",
+          "count": 1
+        },
+        {
+          "title": "Lucknow",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

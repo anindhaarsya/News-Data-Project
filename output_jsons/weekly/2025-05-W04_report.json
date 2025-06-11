@@ -1,0 +1,501 @@
+{
+  "startDate": "2025-05-19",
+  "endDate": "2025-05-25",
+  "totalNews": 6740,
+  "totalPublishers": 79,
+  "totalEvents": 20,
+  "distributionChart": [
+    {
+      "original_title": "Russia and Ukraine swap hundreds more prisoners, hours after a massive attack on Kyiv",
+      "articleCount": 947,
+      "dateTimePub": "2025-05-24T07:54:15Z",
+      "url": "https://www.washingtontimes.com/news/2025/may/24/ukraine-russia-swap-hundreds-prisoners-hours-massive-attack-kyiv/",
+      "source": "Washington Times",
+      "percentage": "27.17%"
+    },
+    {
+      "original_title": "All About Trump's Golden Dome Defence System, 1st US Weapon In Space",
+      "articleCount": 563,
+      "dateTimePub": "2025-05-21T02:52:38Z",
+      "url": "https://www.ndtv.com/world-news/all-about-trumps-golden-dome-defense-system-1st-us-weapon-in-space-8467125",
+      "source": "NDTV",
+      "percentage": "16.15%"
+    },
+    {
+      "original_title": "North Korea's second naval destroyer is damaged in a failed launch at a ceremony attended by President Kim Jong-un",
+      "articleCount": 376,
+      "dateTimePub": "2025-05-22T08:00:16Z",
+      "url": "https://www.thehindu.com/news/international/north-koreas-second-naval-destroyer-is-damaged-in-a-failed-launch-at-a-ceremony-attended-by-president-kim-jong-un/article69605063.ece",
+      "source": "The Hindu",
+      "percentage": "10.79%"
+    },
+    {
+      "original_title": "Who Is Music Agent And Pilot Dave Shapiro, Co-owner Of Sound Talent Group Who Died In Cessna 500 San Diego Plane Crash - The SportsGrail",
+      "articleCount": 310,
+      "dateTimePub": "2025-05-23T11:10:36Z",
+      "url": "https://thesportsgrail.com/who-is-music-agent-and-pilot-dave-shapiro-co-owner-of-sound-talent-group-who-died-in-cessna-500-san-diego-plane-crash/",
+      "source": "The SportsGrail",
+      "percentage": "8.90%"
+    },
+    {
+      "original_title": "Rusos y ucranianos intercambian listas de prisioneros para el mayor canje de la guerra - Noticias SIN",
+      "articleCount": 287,
+      "dateTimePub": "2025-05-22T15:29:46Z",
+      "url": "https://noticiassin.com/rusos-y-ucranianos-intercambian-listas-de-prisioneros-para-el-mayor-canje-de-la-guerra-1844060/",
+      "source": "Noticias SIN",
+      "percentage": "8.24%"
+    },
+    {
+      "original_title": "Pentagon says it has accepted Boeing jet from Qatar that will be used for Trump",
+      "articleCount": 251,
+      "dateTimePub": "2025-05-21T17:13:46Z",
+      "url": "https://www.cbsnews.com/newyork/news/qatar-jet-trump-boeing-pentagon/",
+      "source": "CBS News",
+      "percentage": "7.20%"
+    },
+    {
+      "original_title": "Russia says West's decision to lift range limits on weapons sent to Ukraine is 'dangerous'",
+      "articleCount": 215,
+      "dateTimePub": "2025-05-26T16:49:20Z",
+      "url": "https://www.thejournal.ie/russia-ukraine-range-limits-weapons-friedrich-merz-6715411-May2025/",
+      "source": "TheJournal.ie",
+      "percentage": "6.17%"
+    },
+    {
+      "original_title": "Trump signs executive orders to boost nuclear power, speed up approvals",
+      "articleCount": 200,
+      "dateTimePub": "2025-05-23T22:20:46Z",
+      "url": "https://www.stamfordadvocate.com/business/article/trump-signs-executive-orders-to-boost-nuclear-20343171.php",
+      "source": "stamford advocate",
+      "percentage": "5.74%"
+    },
+    {
+      "original_title": "Friedrich Merz: Merz: Keine Reichweitenbeschränkung mehr für Waffen für Kiew",
+      "articleCount": 174,
+      "dateTimePub": "2025-05-26T13:43:02Z",
+      "url": "https://www.news.de/politik/858647509/merz-keine-reichweitenbeschraenkung-mehr-fuer-waffen-fuer-kiew-friedrich-merz-news-der-dpa-aktuell-zu-nahost-eu-konflikte-und-bundesregierung/1/",
+      "source": "News.de",
+      "percentage": "4.99%"
+    },
+    {
+      "original_title": "Musk's SpaceX To Launch Starship Flight Test Tuesday  --  When To Watch",
+      "articleCount": 162,
+      "dateTimePub": "2025-05-27T14:32:12Z",
+      "url": "https://www.forbes.com/sites/jamiecartereurope/2025/05/27/musks-spacex-to-launch-starship-flight-test-tuesday---when-to-watch/",
+      "source": "Forbes",
+      "percentage": "4.65%"
+    }
+  ],
+  "geoMapChart": [
+    {
+      "country": "United States",
+      "countryCode": "us",
+      "articleCount": 1878
+    },
+    {
+      "country": "India",
+      "countryCode": "in",
+      "articleCount": 1452
+    },
+    {
+      "country": "Unknown",
+      "countryCode": "un",
+      "articleCount": 1007
+    },
+    {
+      "country": "Germany",
+      "countryCode": "de",
+      "articleCount": 373
+    },
+    {
+      "country": "Dominican Republic",
+      "countryCode": "do",
+      "articleCount": 287
+    },
+    {
+      "country": "United Kingdom",
+      "countryCode": "gb",
+      "articleCount": 250
+    },
+    {
+      "country": "Ireland",
+      "countryCode": "ie",
+      "articleCount": 215
+    },
+    {
+      "country": "France",
+      "countryCode": "fr",
+      "articleCount": 158
+    },
+    {
+      "country": "Ukraine",
+      "countryCode": "ua",
+      "articleCount": 143
+    },
+    {
+      "country": "Argentina",
+      "countryCode": "ar",
+      "articleCount": 126
+    },
+    {
+      "country": "Canada",
+      "countryCode": "ca",
+      "articleCount": 123
+    },
+    {
+      "country": "Saudi Arabia",
+      "countryCode": "sa",
+      "articleCount": 117
+    },
+    {
+      "country": "Romania",
+      "countryCode": "ro",
+      "articleCount": 116
+    },
+    {
+      "country": "Austria",
+      "countryCode": "at",
+      "articleCount": 95
+    },
+    {
+      "country": "Croatia",
+      "countryCode": "hr",
+      "articleCount": 65
+    },
+    {
+      "country": "Lebanon",
+      "countryCode": "lb",
+      "articleCount": 58
+    },
+    {
+      "country": "Mexico",
+      "countryCode": "mx",
+      "articleCount": 51
+    },
+    {
+      "country": "Spain",
+      "countryCode": "es",
+      "articleCount": 42
+    },
+    {
+      "country": "Italy",
+      "countryCode": "it",
+      "articleCount": 37
+    },
+    {
+      "country": "Colombia",
+      "countryCode": "co",
+      "articleCount": 34
+    },
+    {
+      "country": "China",
+      "countryCode": "cn",
+      "articleCount": 32
+    },
+    {
+      "country": "Switzerland",
+      "countryCode": "ch",
+      "articleCount": 32
+    },
+    {
+      "country": "Serbia",
+      "countryCode": "rs",
+      "articleCount": 25
+    },
+    {
+      "country": "Portugal",
+      "countryCode": "pt",
+      "articleCount": 15
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "countryCode": "ba",
+      "articleCount": 9
+    }
+  ],
+  "weeklyEntityData": [
+    {
+      "day": 1,
+      "data": [
+        {
+          "title": "Merz",
+          "count": 4
+        },
+        {
+          "title": "West",
+          "count": 1
+        },
+        {
+          "title": "Ukraine",
+          "count": 1
+        },
+        {
+          "title": "Russia",
+          "count": 1
+        },
+        {
+          "title": "Friedrich Merz",
+          "count": 1
+        },
+        {
+          "title": "Keine Reichweitenbeschränkung",
+          "count": 1
+        },
+        {
+          "title": "Kiev",
+          "count": 1
+        },
+        {
+          "title": "Berlin",
+          "count": 1
+        },
+        {
+          "title": "Dienstag",
+          "count": 1
+        },
+        {
+          "title": "NY",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "data": [
+        {
+          "title": "Starship",
+          "count": 2
+        },
+        {
+          "title": "Trump",
+          "count": 2
+        },
+        {
+          "title": "Golden",
+          "count": 2
+        },
+        {
+          "title": "Dome",
+          "count": 2
+        },
+        {
+          "title": "SpaceX To Launch Starship",
+          "count": 1
+        },
+        {
+          "title": "Musk",
+          "count": 1
+        },
+        {
+          "title": "Luna",
+          "count": 1
+        },
+        {
+          "title": "Marte",
+          "count": 1
+        },
+        {
+          "title": "explosions",
+          "count": 1
+        },
+        {
+          "title": "North Korea",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "data": [
+        {
+          "title": "Trump",
+          "count": 3
+        },
+        {
+          "title": "US",
+          "count": 2
+        },
+        {
+          "title": "Qatar",
+          "count": 2
+        },
+        {
+          "title": "Golden Dome Defence System",
+          "count": 1
+        },
+        {
+          "title": "1st",
+          "count": 1
+        },
+        {
+          "title": "Boeing",
+          "count": 1
+        },
+        {
+          "title": "Pentagon",
+          "count": 1
+        },
+        {
+          "title": "Katar",
+          "count": 1
+        },
+        {
+          "title": "Donald Trump",
+          "count": 1
+        },
+        {
+          "title": "USA",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "data": [
+        {
+          "title": "Kim Jong-un",
+          "count": 2
+        },
+        {
+          "title": "mayor",
+          "count": 1
+        },
+        {
+          "title": "second",
+          "count": 1
+        },
+        {
+          "title": "North Korea",
+          "count": 1
+        },
+        {
+          "title": "President",
+          "count": 1
+        },
+        {
+          "title": "La",
+          "count": 1
+        },
+        {
+          "title": "Nordkorea",
+          "count": 1
+        },
+        {
+          "title": "Kim Jong Un",
+          "count": 1
+        },
+        {
+          "title": "Kim Jong Una",
+          "count": 1
+        },
+        {
+          "title": "Kim",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "data": [
+        {
+          "title": "Donald Trump",
+          "count": 3
+        },
+        {
+          "title": "Trump",
+          "count": 2
+        },
+        {
+          "title": "USA",
+          "count": 2
+        },
+        {
+          "title": "Co-owner",
+          "count": 1
+        },
+        {
+          "title": "Cessna",
+          "count": 1
+        },
+        {
+          "title": "Pilot",
+          "count": 1
+        },
+        {
+          "title": "Plane Crash",
+          "count": 1
+        },
+        {
+          "title": "Dave Shapiro",
+          "count": 1
+        },
+        {
+          "title": "Nach Fotos",
+          "count": 1
+        },
+        {
+          "title": "manager",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "data": [
+        {
+          "title": "attack",
+          "count": 1
+        },
+        {
+          "title": "Ukraine",
+          "count": 1
+        },
+        {
+          "title": "hours",
+          "count": 1
+        },
+        {
+          "title": "Russia",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "data": [
+        {
+          "title": "Yemen",
+          "count": 2
+        },
+        {
+          "title": "Israel",
+          "count": 1
+        },
+        {
+          "title": "Jerusalem",
+          "count": 1
+        },
+        {
+          "title": "Gaza",
+          "count": 1
+        },
+        {
+          "title": "Gerusalemme",
+          "count": 1
+        },
+        {
+          "title": "di Israele nella",
+          "count": 1
+        },
+        {
+          "title": "Russian",
+          "count": 1
+        },
+        {
+          "title": "Ukraine",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

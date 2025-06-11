@@ -1,0 +1,115 @@
+{
+  "date": "24-04-2025",
+  "totalNews": 495,
+  "totalPublishers": 10,
+  "totalEvents": 10,
+  "distributionChart": [
+    {
+      "title": "Who was Rob Holland? Renowned stunt pilot dies in plane crash at Virginia's Langley AFB",
+      "articleCount": 88,
+      "percentage": "17.78%",
+      "dateTimePub": "2025-04-24T21:33:40Z",
+      "url": "https://www.hindustantimes.com/world-news/us-news/who-was-rob-holland-renowned-stunt-pilot-dies-in-plane-crash-at-virginias-langley-afb-101745529441059.html"
+    },
+    {
+      "title": "Camila Cabello mocks Katy Perry for flying to space to promote her...",
+      "articleCount": 75,
+      "percentage": "15.15%",
+      "dateTimePub": "2025-04-24T13:59:29Z",
+      "url": "https://nypost.com/2025/04/24/entertainment/camila-cabello-mocks-katy-perry-for-flying-to-space-to-promote-new-tour/"
+    },
+    {
+      "title": "Trump to offer Saudi Arabia RTX, Lockheed Martin arms package",
+      "articleCount": 70,
+      "percentage": "14.14%",
+      "dateTimePub": "2025-04-24T21:16:46Z",
+      "url": "https://www.jpost.com/international/article-851463"
+    },
+    {
+      "title": "Missile That Killed Eight in Russian Strike on Kyiv Was N.Korean, Kyiv Source Says",
+      "articleCount": 54,
+      "percentage": "10.91%",
+      "dateTimePub": "2025-04-24T08:48:00Z",
+      "url": "https://www.usnews.com/news/world/articles/2025-04-24/missile-that-killed-eight-in-russian-strike-on-kyiv-was-n-korean-kyiv-source-says"
+    },
+    {
+      "title": "Video: Navy warship conducts missile test in Arabian Sea",
+      "articleCount": 53,
+      "percentage": "10.71%",
+      "dateTimePub": "2025-04-24T09:17:00Z",
+      "url": "https://www.indiatoday.in/india/story/video-indian-navy-warship-conducts-destroyer-ins-surat-missile-test-in-arabian-sea-2713976-2025-04-24"
+    },
+    {
+      "title": "Shell venderá sus activos en Colombia y dejará de ser socia de Ecopetrol en gas",
+      "articleCount": 43,
+      "percentage": "8.69%",
+      "dateTimePub": "2025-04-24T13:38:52Z",
+      "url": "https://www.larepublica.co/empresas/la-petrolera-shell-dejara-de-ser-socia-de-ecopetrol-tras-el-anuncio-de-su-salida-del-pais-4117948"
+    },
+    {
+      "title": "Trump emergency move aims to cut approval times for energy projects...",
+      "articleCount": 31,
+      "percentage": "6.26%",
+      "dateTimePub": "2025-04-24T03:14:50Z",
+      "url": "https://www.dailymail.co.uk/wires/reuters/article-14641999/Trump-emergency-aims-cut-approval-times-energy-projects-28-days.html"
+    },
+    {
+      "title": "USDA withdraws a plan to limit salmonella levels in raw poultry",
+      "articleCount": 31,
+      "percentage": "6.26%",
+      "dateTimePub": "2025-04-24T20:39:52Z",
+      "url": "https://www.clickorlando.com/business/2025/04/24/usda-withdraws-a-plan-to-limit-salmonella-levels-in-raw-poultry/"
+    },
+    {
+      "title": "NASA Orbiter Sees Curiosity Rover's Journey to Next Site",
+      "articleCount": 29,
+      "percentage": "5.86%",
+      "dateTimePub": "2025-04-24T16:31:33Z",
+      "url": "https://www.miragenews.com/nasa-orbiter-sees-curiosity-rovers-journey-to-1449618/"
+    },
+    {
+      "title": "Stellantis and Factorial Energy Reach Key Milestone in Solid-State Battery Development",
+      "articleCount": 21,
+      "percentage": "4.24%",
+      "dateTimePub": "2025-04-24T12:12:58Z",
+      "url": "https://www.manilatimes.net/2025/04/24/tmt-newswire/globenewswire/stellantis-and-factorial-energy-reach-key-milestone-in-solid-state-battery-development/2098552"
+    }
+  ],
+  "geoMapChart": [
+    {
+      "country": "India",
+      "code": "IN",
+      "articleCount": 141
+    },
+    {
+      "country": "United States",
+      "code": "US",
+      "articleCount": 160
+    },
+    {
+      "country": "Israel",
+      "code": "IL",
+      "articleCount": 70
+    },
+    {
+      "country": "Serbia",
+      "code": "RS",
+      "articleCount": 43
+    },
+    {
+      "country": "Australia",
+      "code": "AU",
+      "articleCount": 29
+    },
+    {
+      "country": "Philippines",
+      "code": "PH",
+      "articleCount": 21
+    },
+    {
+      "country": "United Kingdom",
+      "code": "GB",
+      "articleCount": 31
+    }
+  ]
+}

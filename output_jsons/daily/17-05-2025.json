@@ -1,0 +1,22 @@
+{
+  "date": "17-05-2025",
+  "totalNews": 103,
+  "totalPublishers": 1,
+  "totalEvents": 1,
+  "distributionChart": [
+    {
+      "title": "Airbus to cooperate with France's Parquet National Financier in preliminary investigation",
+      "articleCount": 103,
+      "percentage": "100.00%",
+      "dateTimePub": "2025-05-17T05:28:04Z",
+      "url": "https://www.airbus.com/en/newsroom/press-releases/2017-03-airbus-to-cooperate-with-frances-parquet-national-financier-in"
+    }
+  ],
+  "geoMapChart": [
+    {
+      "country": "France",
+      "code": "FR",
+      "articleCount": 103
+    }
+  ]
+}

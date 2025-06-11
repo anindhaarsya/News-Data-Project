@@ -1,0 +1,115 @@
+{
+  "date": "30-04-2025",
+  "totalNews": 755,
+  "totalPublishers": 11,
+  "totalEvents": 16,
+  "distributionChart": [
+    {
+      "title": "Shenzhou-19 crew returns to Earth after six months on China space station",
+      "articleCount": 89,
+      "percentage": "11.79%",
+      "dateTimePub": "2025-04-30T05:47:02Z",
+      "url": "https://www.france24.com/en/asia-pacific/20250430-shenzhou-19-crew-returns-to-earth-after-six-months-on-china-space-station"
+    },
+    {
+      "title": "Shenzhou-19 crew returns to Earth after six months on China space station",
+      "articleCount": 88,
+      "percentage": "11.66%",
+      "dateTimePub": "2025-04-30T05:47:02Z",
+      "url": "https://www.france24.com/en/asia-pacific/20250430-shenzhou-19-crew-returns-to-earth-after-six-months-on-china-space-station"
+    },
+    {
+      "title": "Spain and Portugal's Blackout Reveals the Achilles' Heel of Electricity Grids Dominated by Wind and Solar",
+      "articleCount": 83,
+      "percentage": "10.99%",
+      "dateTimePub": "2025-04-30T13:20:44Z",
+      "url": "https://www.sgtreport.com/2025/04/spain-and-portugals-blackout-reveals-the-achilles-heel-of-electricity-grids-dominated-by-wind-and-solar/"
+    },
+    {
+      "title": "Russia begins building road bridge to North Korea, PM says",
+      "articleCount": 80,
+      "percentage": "10.60%",
+      "dateTimePub": "2025-04-30T07:44:37Z",
+      "url": "https://ca.news.yahoo.com/russia-begins-building-road-bridge-074437021.html"
+    },
+    {
+      "title": "XRP ushered in a bright moment, KSDMiner became the choice of many XRP investors",
+      "articleCount": 77,
+      "percentage": "10.20%",
+      "dateTimePub": "2025-04-30T19:08:18Z",
+      "url": "https://itnewsonline.com/GlobeNewswire/XRP-ushered-in-a-bright-moment-KSDMiner-became-the-choice-of-many-XRP-investors/97430"
+    },
+    {
+      "title": "The answer to nuclear finance",
+      "articleCount": 68,
+      "percentage": "9.01%",
+      "dateTimePub": "2025-04-30T13:00:57Z",
+      "url": "https://www.neimagazine.com/analysis/opinion/the-answer-to-nuclear-finance/"
+    },
+    {
+      "title": "How does transportation benefit us?",
+      "articleCount": 40,
+      "percentage": "5.30%",
+      "dateTimePub": "2025-04-30T06:19:03Z",
+      "url": "https://curiousexpeditions.org/how-does-transportation-benefit-us/"
+    },
+    {
+      "title": "Visa, Bridge partner to launch stablecoin-linked cards",
+      "articleCount": 33,
+      "percentage": "4.37%",
+      "dateTimePub": "2025-04-30T18:03:16Z",
+      "url": "https://www.channelnewsasia.com/business/visa-bridge-partner-launch-stablecoin-linked-cards-5100816"
+    },
+    {
+      "title": "'11GW of offshore wind added in 2024'",
+      "articleCount": 30,
+      "percentage": "3.97%",
+      "dateTimePub": "2025-04-30T09:37:19Z",
+      "url": "https://renews.biz/100299/11gw-of-offshore-wind-added-in-2024/"
+    },
+    {
+      "title": "'11GW of offshore wind added in 2024'",
+      "articleCount": 30,
+      "percentage": "3.97%",
+      "dateTimePub": "2025-04-30T09:37:19Z",
+      "url": "https://renews.biz/100299/11gw-of-offshore-wind-added-in-2024/"
+    }
+  ],
+  "geoMapChart": [
+    {
+      "country": "France",
+      "code": "FR",
+      "articleCount": 177
+    },
+    {
+      "country": "United States",
+      "code": "US",
+      "articleCount": 282
+    },
+    {
+      "country": "India",
+      "code": "IN",
+      "articleCount": 96
+    },
+    {
+      "country": "Singapore",
+      "code": "SG",
+      "articleCount": 33
+    },
+    {
+      "country": "United Kingdom",
+      "code": "GB",
+      "articleCount": 128
+    },
+    {
+      "country": "Germany",
+      "code": "DE",
+      "articleCount": 21
+    },
+    {
+      "country": "South Africa",
+      "code": "ZA",
+      "articleCount": 18
+    }
+  ]
+}

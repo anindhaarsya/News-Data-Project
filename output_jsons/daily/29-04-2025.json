@@ -1,0 +1,165 @@
+{
+  "date": "29-04-2025",
+  "totalNews": 2685,
+  "totalPublishers": 38,
+  "totalEvents": 58,
+  "distributionChart": [
+    {
+      "title": "United Launch Alliance rocket delivers Amazon satellites to orbit after Florida liftoff: Photos",
+      "articleCount": 195,
+      "percentage": "7.26%",
+      "dateTimePub": "2025-04-29T12:41:12Z",
+      "url": "https://www.yahoo.com/news/united-launch-alliance-rocket-delivers-124112635.html"
+    },
+    {
+      "title": "UP Aims for 500 GW Solar Power by 2030",
+      "articleCount": 151,
+      "percentage": "5.62%",
+      "dateTimePub": "2025-04-29T09:02:12Z",
+      "url": "https://money.rediff.com/news/market/up-aims-for-500-gw-solar-power-by-2030/26004920250429"
+    },
+    {
+      "title": "UP Aims for 500 GW Solar Power by 2030",
+      "articleCount": 151,
+      "percentage": "5.62%",
+      "dateTimePub": "2025-04-29T09:02:12Z",
+      "url": "https://money.rediff.com/news/market/up-aims-for-500-gw-solar-power-by-2030/26004920250429"
+    },
+    {
+      "title": "Spain & Portugal",
+      "articleCount": 144,
+      "percentage": "5.36%",
+      "dateTimePub": "2025-04-29T06:42:36Z",
+      "url": "https://www.no2nuclearpower.org.uk/news/spain-portugal-29-4-25/"
+    },
+    {
+      "title": "It's time to reset our failing climate policies, says Tony Blair",
+      "articleCount": 121,
+      "percentage": "4.51%",
+      "dateTimePub": "2025-04-29T01:14:20Z",
+      "url": "https://www.yahoo.com/news/blair-demands-net-zero-policy-230100891.html"
+    },
+    {
+      "title": "Spain & Portugal",
+      "articleCount": 120,
+      "percentage": "4.47%",
+      "dateTimePub": "2025-04-29T06:42:36Z",
+      "url": "https://www.no2nuclearpower.org.uk/news/spain-portugal-29-4-25/"
+    },
+    {
+      "title": "(LEAD) N. Korea conducts 1st firing test of new warship's weapons systems | Yonhap News Agency",
+      "articleCount": 83,
+      "percentage": "3.09%",
+      "dateTimePub": "2025-04-29T22:40:23Z",
+      "url": "https://en.yna.co.kr/view/AEN20250430000551315"
+    },
+    {
+      "title": "Powering Africa's Future: The Urgency Of Energy Transition - Africa.com",
+      "articleCount": 81,
+      "percentage": "3.02%",
+      "dateTimePub": "2025-04-29T11:31:39Z",
+      "url": "https://africa.com/powering-africas-future-the-urgency-of-energy-transition/"
+    },
+    {
+      "title": "Middle class misses out on Pakistan's rapid solar transition",
+      "articleCount": 77,
+      "percentage": "2.87%",
+      "dateTimePub": "2025-04-29T00:49:15Z",
+      "url": "https://tribune.com.pk/story/2542946/middle-class-misses-out-on-pakistans-rapid-solar-transition"
+    },
+    {
+      "title": "Powering Africa's Future: The Urgency Of Energy Transition - Africa.com",
+      "articleCount": 77,
+      "percentage": "2.87%",
+      "dateTimePub": "2025-04-29T11:31:39Z",
+      "url": "https://africa.com/powering-africas-future-the-urgency-of-energy-transition/"
+    }
+  ],
+  "geoMapChart": [
+    {
+      "country": "India",
+      "code": "IN",
+      "articleCount": 532
+    },
+    {
+      "country": "United Kingdom",
+      "code": "GB",
+      "articleCount": 459
+    },
+    {
+      "country": "Korea, Republic of",
+      "code": "KR",
+      "articleCount": 154
+    },
+    {
+      "country": "South Africa",
+      "code": "ZA",
+      "articleCount": 158
+    },
+    {
+      "country": "Pakistan",
+      "code": "PK",
+      "articleCount": 123
+    },
+    {
+      "country": "United States",
+      "code": "US",
+      "articleCount": 657
+    },
+    {
+      "country": "France",
+      "code": "FR",
+      "articleCount": 95
+    },
+    {
+      "country": "Canada",
+      "code": "CA",
+      "articleCount": 83
+    },
+    {
+      "country": "Spain",
+      "code": "ES",
+      "articleCount": 61
+    },
+    {
+      "country": "Singapore",
+      "code": "SG",
+      "articleCount": 68
+    },
+    {
+      "country": "Germany",
+      "code": "DE",
+      "articleCount": 65
+    },
+    {
+      "country": "Australia",
+      "code": "AU",
+      "articleCount": 52
+    },
+    {
+      "country": "Ukraine",
+      "code": "UA",
+      "articleCount": 50
+    },
+    {
+      "country": "Denmark",
+      "code": "DK",
+      "articleCount": 43
+    },
+    {
+      "country": "Türkiye",
+      "code": "TR",
+      "articleCount": 26
+    },
+    {
+      "country": "Serbia",
+      "code": "RS",
+      "articleCount": 25
+    },
+    {
+      "country": "Iran, Islamic Republic of",
+      "code": "IR",
+      "articleCount": 34
+    }
+  ]
+}

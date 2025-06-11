@@ -1,0 +1,34 @@
+{
+  "date": "27-05-2025",
+  "totalNews": 279,
+  "totalPublishers": 2,
+  "totalEvents": 2,
+  "distributionChart": [
+    {
+      "title": "Musk's SpaceX To Launch Starship Flight Test Tuesday  --  When To Watch",
+      "articleCount": 162,
+      "percentage": "58.06%",
+      "dateTimePub": "2025-05-27T14:32:12Z",
+      "url": "https://www.forbes.com/sites/jamiecartereurope/2025/05/27/musks-spacex-to-launch-starship-flight-test-tuesday---when-to-watch/"
+    },
+    {
+      "title": "North Korea says Trump's missile shield plan may spark nuclear war in space",
+      "articleCount": 117,
+      "percentage": "41.94%",
+      "dateTimePub": "2025-05-27T04:43:00Z",
+      "url": "https://english.alarabiya.net/News/world/2025/05/27/north-korea-says-trump-s-missile-shield-plan-may-spark-nuclear-war-in-space"
+    }
+  ],
+  "geoMapChart": [
+    {
+      "country": "United States",
+      "code": "US",
+      "articleCount": 162
+    },
+    {
+      "country": "Saudi Arabia",
+      "code": "SA",
+      "articleCount": 117
+    }
+  ]
+}

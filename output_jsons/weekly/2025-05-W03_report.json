@@ -1,0 +1,203 @@
+{
+  "startDate": "2025-05-12",
+  "endDate": "2025-05-18",
+  "totalNews": 2747,
+  "totalPublishers": 9,
+  "totalEvents": 9,
+  "distributionChart": [
+    {
+      "original_title": "'Only a fool would...': Trump says $400-mn Qatar jet more 'impressive' than outdated Air Force One",
+      "articleCount": 1009,
+      "dateTimePub": "2025-05-14T03:51:48Z",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-news-trump-says-400-mn-qatar-jet-more-impressive-than-outdated-air-force-one-only-a-fool-would-not-accept-it/articleshow/121159724.cms",
+      "source": "Economic Times",
+      "percentage": "36.73%"
+    },
+    {
+      "original_title": "Federal officials launch investigation into Mexican tall ship that struck Brooklyn Bridge - World News",
+      "articleCount": 847,
+      "dateTimePub": "2025-05-18T16:28:00Z",
+      "url": "https://www.castanet.net/news/World/551081/Federal-officials-launch-investigation-into-Mexican-tall-ship-that-struck-Brooklyn-Bridge",
+      "source": "Castanet",
+      "percentage": "30.83%"
+    },
+    {
+      "original_title": "Amid Indo-Pak tensions, Border surveillance set to get boost, as ISRO readies for PSLV/EOS-09 mission",
+      "articleCount": 160,
+      "dateTimePub": "2025-05-15T11:13:05Z",
+      "url": "https://www.uniindia.com/~/amid-indo-pak-tensions-border-surveillance-set-to-get-boost-as-isro-readies-for-pslv-eos-09-mission/States/news/3464392.html",
+      "source": "http://www.uniindia.com/fadnavis-orders-probe-into-mumbai-pub-fire/states/news/1090400.html",
+      "percentage": "5.82%"
+    },
+    {
+      "original_title": "Hydrogen Market Set to Expand Rapidly, Surpassing USD 430 Billion by 2032 As Discussed In New Market Research Report",
+      "articleCount": 157,
+      "dateTimePub": "2025-05-12T13:05:03Z",
+      "url": "https://www.whatech.com/og/markets-research/materials-chemicals/955973-hydrogen-market-set-to-expand-rapidly-surpassing-usd-430-billion-by-2032-persistence-market-research.html",
+      "source": "WhaTech",
+      "percentage": "5.72%"
+    },
+    {
+      "original_title": "Solar grants held hostage in Pennsylvania legislature  --  as demand soars",
+      "articleCount": 128,
+      "dateTimePub": "2025-05-18T13:00:00Z",
+      "url": "https://grist.org/energy/solar-grants-held-hostage-in-pennsylvania-legislature-as-demand-soars/",
+      "source": "Grist",
+      "percentage": "4.66%"
+    },
+    {
+      "original_title": "'Lesson For Pakistan': Army Shares Video Of Operation Sindoor, Says 'Justice Served' After Pahalgam Attack",
+      "articleCount": 122,
+      "dateTimePub": "2025-05-18T07:07:26Z",
+      "url": "https://www.freepressjournal.in/india/lesson-for-pakistan-army-shares-video-of-operation-sindoor-says-justice-served-after-pahalgam-attack",
+      "source": "Free Press Journal",
+      "percentage": "4.44%"
+    },
+    {
+      "original_title": "Unleash your cryptocurrency potential: PBK Miner allows investors to start earning passive income",
+      "articleCount": 111,
+      "dateTimePub": "2025-05-18T15:07:16Z",
+      "url": "https://www.livebitcoinnews.com/unleash-your-cryptocurrency-potential-pbk-miner-allows-investors-to-start-earning-passive-income/",
+      "source": "Live Bitcoin News",
+      "percentage": "4.04%"
+    },
+    {
+      "original_title": "Op Sindoor: How India's tech outsmarted Pak defences",
+      "articleCount": 110,
+      "dateTimePub": "2025-05-14T18:14:29Z",
+      "url": "https://www.rediff.com/news/report/op-sindoor-how-indias-tech-outsmarted-pak-defences/20250514.htm",
+      "source": "Rediff.com India Ltd.",
+      "percentage": "4.00%"
+    },
+    {
+      "original_title": "Airbus to cooperate with France's Parquet National Financier in preliminary investigation",
+      "articleCount": 103,
+      "dateTimePub": "2025-05-17T05:28:04Z",
+      "url": "https://www.airbus.com/en/newsroom/press-releases/2017-03-airbus-to-cooperate-with-frances-parquet-national-financier-in",
+      "source": "Airbus",
+      "percentage": "3.75%"
+    }
+  ],
+  "geoMapChart": [
+    {
+      "country": "India",
+      "countryCode": "in",
+      "articleCount": 1401
+    },
+    {
+      "country": "Canada",
+      "countryCode": "ca",
+      "articleCount": 847
+    },
+    {
+      "country": "Australia",
+      "countryCode": "au",
+      "articleCount": 157
+    },
+    {
+      "country": "United States",
+      "countryCode": "us",
+      "articleCount": 128
+    },
+    {
+      "country": "United Kingdom",
+      "countryCode": "gb",
+      "articleCount": 111
+    },
+    {
+      "country": "France",
+      "countryCode": "fr",
+      "articleCount": 103
+    }
+  ],
+  "weeklyEntityData": [
+    {
+      "day": 3,
+      "data": [
+        {
+          "title": "Trump",
+          "count": 1
+        },
+        {
+          "title": "$400-mn",
+          "count": 1
+        },
+        {
+          "title": "Qatar",
+          "count": 1
+        },
+        {
+          "title": "India",
+          "count": 1
+        },
+        {
+          "title": "Pak",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "data": [
+        {
+          "title": "PSLV",
+          "count": 1
+        },
+        {
+          "title": "ISRO",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "data": [
+        {
+          "title": "Airbus",
+          "count": 1
+        },
+        {
+          "title": "France",
+          "count": 1
+        },
+        {
+          "title": "Parquet National Financier",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "data": [
+        {
+          "title": "Mexican",
+          "count": 1
+        },
+        {
+          "title": "Brooklyn",
+          "count": 1
+        },
+        {
+          "title": "Bridge",
+          "count": 1
+        },
+        {
+          "title": "Pennsylvania",
+          "count": 1
+        },
+        {
+          "title": "Pahalgam Attack",
+          "count": 1
+        },
+        {
+          "title": "Pakistan",
+          "count": 1
+        },
+        {
+          "title": "PBK Miner",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

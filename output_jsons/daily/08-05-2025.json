@@ -1,0 +1,34 @@
+{
+  "date": "08-05-2025",
+  "totalNews": 251,
+  "totalPublishers": 2,
+  "totalEvents": 2,
+  "distributionChart": [
+    {
+      "title": "North Korea fires short-range missiles in performance test",
+      "articleCount": 154,
+      "percentage": "61.35%",
+      "dateTimePub": "2025-05-08T05:43:50Z",
+      "url": "https://dailypost.ng/2025/05/08/north-korea-fires-short-range-missiles-in-performance-test/"
+    },
+    {
+      "title": "Rafale downed for first time? Conflicting claims emerge after India's",
+      "articleCount": 97,
+      "percentage": "38.65%",
+      "dateTimePub": "2025-05-08T08:25:00Z",
+      "url": "https://www.tbsnews.net/world/south-asia/rafale-downed-first-time-conflicting-claims-emerge-after-indias-strike-1137151"
+    }
+  ],
+  "geoMapChart": [
+    {
+      "country": "Nigeria",
+      "code": "NG",
+      "articleCount": 154
+    },
+    {
+      "country": "Bangladesh",
+      "code": "BD",
+      "articleCount": 97
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "date": "26-04-2025",
+  "totalNews": 1254,
+  "totalPublishers": 5,
+  "totalEvents": 5,
+  "distributionChart": [
+    {
+      "title": "Massive explosion rocks Iran as four are killed",
+      "articleCount": 1072,
+      "percentage": "85.49%",
+      "dateTimePub": "2025-04-26T14:49:03Z",
+      "url": "https://www.dailymail.co.uk/news/article-14650603/Iran-explosion-people-killed-injured.html"
+    },
+    {
+      "title": "Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+      "articleCount": 93,
+      "percentage": "7.42%",
+      "dateTimePub": "2025-04-26T13:41:03Z",
+      "url": "https://spaceflightnow.com/2025/04/26/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-3/"
+    },
+    {
+      "title": "Driver injured as truck plunges off Lagos bridge",
+      "articleCount": 43,
+      "percentage": "3.43%",
+      "dateTimePub": "2025-04-26T14:09:46Z",
+      "url": "https://punchng.com/driver-injured-as-truck-plunges-off-lagos-bridge/"
+    },
+    {
+      "title": "В Польше заявили о нарушении воздушного пространства российским самолетом",
+      "articleCount": 26,
+      "percentage": "2.07%",
+      "dateTimePub": "2025-04-26T08:59:23Z",
+      "url": "https://news.rambler.ru/army/54575990-v-polshe-zayavili-o-narushenii-vozdushnogo-prostranstva-rossiyskim-samoletom/"
+    },
+    {
+      "title": "Израиль заявил о перехвате запущенной из Йемена ракеты",
+      "articleCount": 20,
+      "percentage": "1.59%",
+      "dateTimePub": "2025-04-26T00:17:09Z",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/23789247"
+    }
+  ],
+  "geoMapChart": [
+    {
+      "country": "United Kingdom",
+      "code": "GB",
+      "articleCount": 1072
+    },
+    {
+      "country": "United States",
+      "code": "US",
+      "articleCount": 93
+    },
+    {
+      "country": "Russian Federation",
+      "code": "RU",
+      "articleCount": 46
+    },
+    {
+      "country": "Nigeria",
+      "code": "NG",
+      "articleCount": 43
+    }
+  ]
+}

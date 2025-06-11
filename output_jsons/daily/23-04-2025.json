@@ -1,0 +1,98 @@
+{
+  "date": "23-04-2025",
+  "totalNews": 647,
+  "totalPublishers": 8,
+  "totalEvents": 9,
+  "distributionChart": [
+    {
+      "title": "Veteran Chinese astronaut to lead fresh crew to space station",
+      "articleCount": 224,
+      "percentage": "34.62%",
+      "dateTimePub": "2025-04-23T05:28:22Z",
+      "url": "https://www.yahoo.com/news/veteran-chinese-astronaut-lead-fresh-052822095.html"
+    },
+    {
+      "title": "'Energy security' is being used to justify more fossil fuels - but this will only make us less secure",
+      "articleCount": 130,
+      "percentage": "20.09%",
+      "dateTimePub": "2025-04-23T03:29:29Z",
+      "url": "https://www.unitedkingdomnews.net/news/278181625/energy-security-is-being-used-to-justify-more-fossil-fuels-but-this-will-only-make-us-less-secure"
+    },
+    {
+      "title": "Missile Intercepted Over Israel Amid Yemen Tensions | Law-Order",
+      "articleCount": 51,
+      "percentage": "7.88%",
+      "dateTimePub": "2025-04-23T01:33:43Z",
+      "url": "https://www.devdiscourse.com/article/law-order/3355058-missile-intercepted-over-israel-amid-yemen-tensions"
+    },
+    {
+      "title": "Great British Energy - No2NuclearPower",
+      "articleCount": 48,
+      "percentage": "7.42%",
+      "dateTimePub": "2025-04-23T06:51:13Z",
+      "url": "https://www.no2nuclearpower.org.uk/news/great-british-energy-23-4-25/"
+    },
+    {
+      "title": "China-led lunar base to include nuclear power plant on moon's surface, space official",
+      "articleCount": 45,
+      "percentage": "6.96%",
+      "dateTimePub": "2025-04-23T08:05:09Z",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/china-led-lunar-base-to-include-nuclear-power-plant-on-moons-surface-space-official/articleshow/120545290.cms"
+    },
+    {
+      "title": "Louisiana wants to pave the way for small nuclear reactors, an untested technology in the U.S.",
+      "articleCount": 44,
+      "percentage": "6.80%",
+      "dateTimePub": "2025-04-23T22:50:39Z",
+      "url": "https://www.ktbs.com/news/louisiana/louisiana-wants-to-pave-the-way-for-small-nuclear-reactors-an-untested-technology-in-the/article_1ddd4272-e520-5fff-9a29-4e630e37d3fb.html"
+    },
+    {
+      "title": "9-hour power outage in parts of Gauteng on Friday",
+      "articleCount": 40,
+      "percentage": "6.18%",
+      "dateTimePub": "2025-04-23T20:54:57Z",
+      "url": "https://www.thesouthafrican.com/news/9-hour-power-outage-in-parts-of-gauteng-on-friday-2/"
+    },
+    {
+      "title": "Pakistani Astronauts Set for Historic Journey to China's Space Station | Science-Environment",
+      "articleCount": 34,
+      "percentage": "5.26%",
+      "dateTimePub": "2025-04-23T04:29:45Z",
+      "url": "https://www.devdiscourse.com/article/science-environment/3355132-pakistani-astronauts-set-for-historic-journey-to-chinas-space-station"
+    },
+    {
+      "title": "UAE's greenlights design for first hybrid heliport at Zayed Port",
+      "articleCount": 31,
+      "percentage": "4.79%",
+      "dateTimePub": "2025-04-23T09:51:04Z",
+      "url": "https://www.gulftoday.ae/news/2025/04/23/uaes-greenlights-design-for-first-hybrid-heliport-at-zayed-port"
+    }
+  ],
+  "geoMapChart": [
+    {
+      "country": "United States",
+      "code": "US",
+      "articleCount": 268
+    },
+    {
+      "country": "United Kingdom",
+      "code": "GB",
+      "articleCount": 178
+    },
+    {
+      "country": "India",
+      "code": "IN",
+      "articleCount": 130
+    },
+    {
+      "country": "South Africa",
+      "code": "ZA",
+      "articleCount": 40
+    },
+    {
+      "country": "United Arab Emirates",
+      "code": "AE",
+      "articleCount": 31
+    }
+  ]
+}

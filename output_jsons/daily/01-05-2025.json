@@ -1,0 +1,58 @@
+{
+  "date": "01-05-2025",
+  "totalNews": 371,
+  "totalPublishers": 4,
+  "totalEvents": 4,
+  "distributionChart": [
+    {
+      "title": "It's enough for millions of years  --  The hope of mankind, 950 meters underground in this country",
+      "articleCount": 153,
+      "percentage": "41.24%",
+      "dateTimePub": "2025-05-01T11:58:54Z",
+      "url": "https://www.ecoticias.com/en/mankind-950-meters-energy-underground/14161/"
+    },
+    {
+      "title": "City's annual Water Conservation Program kicks off | Cranbrook",
+      "articleCount": 97,
+      "percentage": "26.15%",
+      "dateTimePub": "2025-05-01T16:35:39Z",
+      "url": "https://www.e-know.ca/regions/cranbrook/citys-annual-water-conservation-program-kicks-off/"
+    },
+    {
+      "title": "More than 300,000 homes at risk of electricity disruption from start of July - Daily Record",
+      "articleCount": 63,
+      "percentage": "16.98%",
+      "dateTimePub": "2025-05-01T07:28:48Z",
+      "url": "https://www.dailyrecord.co.uk/lifestyle/money/homes-risk-electricity-disruption-summer-35149497"
+    },
+    {
+      "title": "US Army plans massive increase in its use of drones",
+      "articleCount": 58,
+      "percentage": "15.63%",
+      "dateTimePub": "2025-05-01T04:56:57Z",
+      "url": "https://www.livemint.com/global/us-army-plans-massive-increase-in-its-use-of-drones-11746072879716.html"
+    }
+  ],
+  "geoMapChart": [
+    {
+      "country": "India",
+      "code": "IN",
+      "articleCount": 58
+    },
+    {
+      "country": "Canada",
+      "code": "CA",
+      "articleCount": 97
+    },
+    {
+      "country": "Spain",
+      "code": "ES",
+      "articleCount": 153
+    },
+    {
+      "country": "United Kingdom",
+      "code": "GB",
+      "articleCount": 63
+    }
+  ]
+}

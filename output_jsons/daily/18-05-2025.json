@@ -1,0 +1,58 @@
+{
+  "date": "18-05-2025",
+  "totalNews": 1208,
+  "totalPublishers": 4,
+  "totalEvents": 4,
+  "distributionChart": [
+    {
+      "title": "Federal officials launch investigation into Mexican tall ship that struck Brooklyn Bridge - World News",
+      "articleCount": 847,
+      "percentage": "70.12%",
+      "dateTimePub": "2025-05-18T16:28:00Z",
+      "url": "https://www.castanet.net/news/World/551081/Federal-officials-launch-investigation-into-Mexican-tall-ship-that-struck-Brooklyn-Bridge"
+    },
+    {
+      "title": "Solar grants held hostage in Pennsylvania legislature  --  as demand soars",
+      "articleCount": 128,
+      "percentage": "10.60%",
+      "dateTimePub": "2025-05-18T13:00:00Z",
+      "url": "https://grist.org/energy/solar-grants-held-hostage-in-pennsylvania-legislature-as-demand-soars/"
+    },
+    {
+      "title": "'Lesson For Pakistan': Army Shares Video Of Operation Sindoor, Says 'Justice Served' After Pahalgam Attack",
+      "articleCount": 122,
+      "percentage": "10.10%",
+      "dateTimePub": "2025-05-18T07:07:26Z",
+      "url": "https://www.freepressjournal.in/india/lesson-for-pakistan-army-shares-video-of-operation-sindoor-says-justice-served-after-pahalgam-attack"
+    },
+    {
+      "title": "Unleash your cryptocurrency potential: PBK Miner allows investors to start earning passive income",
+      "articleCount": 111,
+      "percentage": "9.19%",
+      "dateTimePub": "2025-05-18T15:07:16Z",
+      "url": "https://www.livebitcoinnews.com/unleash-your-cryptocurrency-potential-pbk-miner-allows-investors-to-start-earning-passive-income/"
+    }
+  ],
+  "geoMapChart": [
+    {
+      "country": "Canada",
+      "code": "CA",
+      "articleCount": 847
+    },
+    {
+      "country": "United States",
+      "code": "US",
+      "articleCount": 128
+    },
+    {
+      "country": "India",
+      "code": "IN",
+      "articleCount": 122
+    },
+    {
+      "country": "United Kingdom",
+      "code": "GB",
+      "articleCount": 111
+    }
+  ]
+}
