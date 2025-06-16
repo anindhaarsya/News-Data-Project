@@ -6,7 +6,7 @@
   "totalEvents": 7,
   "distributionChart": [
     {
-      "original_title": "Pakistan test-fires ballistic missile as tensions with India rise - RocketNews",
+      "title": "Pakistan test-fires ballistic missile as tensions with India rise - RocketNews",
       "articleCount": 237,
       "dateTimePub": "2025-05-03T10:35:24Z",
       "url": "https://rocketnews.com/2025/05/pakistan-test-fires-ballistic-missile-as-tensions-with-india-rise/",
@@ -14,7 +14,7 @@
       "percentage": "28.21%"
     },
     {
-      "original_title": "It's enough for millions of years  --  The hope of mankind, 950 meters underground in this country",
+      "title": "It's enough for millions of years  --  The hope of mankind, 950 meters underground in this country",
       "articleCount": 153,
       "dateTimePub": "2025-05-01T11:58:54Z",
       "url": "https://www.ecoticias.com/en/mankind-950-meters-energy-underground/14161/",
@@ -22,7 +22,7 @@
       "percentage": "18.21%"
     },
     {
-      "original_title": "Why Millionaires Avoid Salaries & Focus on This Instead!Attention XRP, BCH and DOGE enthusiasts | Bitcoinist.com",
+      "title": "Why Millionaires Avoid Salaries & Focus on This Instead!Attention XRP, BCH and DOGE enthusiasts | Bitcoinist.com",
       "articleCount": 132,
       "dateTimePub": "2025-05-04T17:00:59Z",
       "url": "https://bitcoinist.com/why-millionaires-avoid-salaries-focus-on-this-insteadattention-xrp-bch-and-doge-enthusiasts/",
@@ -30,7 +30,7 @@
       "percentage": "15.71%"
     },
     {
-      "original_title": "Orion Artemis II Moon spacecraft completes testing | Aerospace Testing International",
+      "title": "Orion Artemis II Moon spacecraft completes testing | Aerospace Testing International",
       "articleCount": 100,
       "dateTimePub": "2025-05-02T10:18:32Z",
       "url": "https://www.aerospacetestinginternational.com/news/orion-artemis-ii-moon-spacecraft-completes-testing.html",
@@ -38,7 +38,7 @@
       "percentage": "11.90%"
     },
     {
-      "original_title": "City's annual Water Conservation Program kicks off | Cranbrook",
+      "title": "City's annual Water Conservation Program kicks off | Cranbrook",
       "articleCount": 97,
       "dateTimePub": "2025-05-01T16:35:39Z",
       "url": "https://www.e-know.ca/regions/cranbrook/citys-annual-water-conservation-program-kicks-off/",
@@ -46,7 +46,7 @@
       "percentage": "11.55%"
     },
     {
-      "original_title": "More than 300,000 homes at risk of electricity disruption from start of July - Daily Record",
+      "title": "More than 300,000 homes at risk of electricity disruption from start of July - Daily Record",
       "articleCount": 63,
       "dateTimePub": "2025-05-01T07:28:48Z",
       "url": "https://www.dailyrecord.co.uk/lifestyle/money/homes-risk-electricity-disruption-summer-35149497",
@@ -54,7 +54,7 @@
       "percentage": "7.50%"
     },
     {
-      "original_title": "US Army plans massive increase in its use of drones",
+      "title": "US Army plans massive increase in its use of drones",
       "articleCount": 58,
       "dateTimePub": "2025-05-01T04:56:57Z",
       "url": "https://www.livemint.com/global/us-army-plans-massive-increase-in-its-use-of-drones-11746072879716.html",
@@ -120,11 +120,11 @@
       "day": 6,
       "data": [
         {
-          "title": "India",
+          "title": "Pakistan",
           "count": 1
         },
         {
-          "title": "Pakistan",
+          "title": "India",
           "count": 1
         }
       ]
@@ -133,11 +133,11 @@
       "day": 7,
       "data": [
         {
-          "title": "BCH",
+          "title": "Bitcoinist.com",
           "count": 1
         },
         {
-          "title": "Bitcoinist.com",
+          "title": "BCH",
           "count": 1
         }
       ]

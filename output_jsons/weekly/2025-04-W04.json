@@ -6,84 +6,84 @@
   "totalEvents": 102,
   "distributionChart": [
     {
-      "original_title": "Massive explosion rocks Iran as four are killed",
+      "title": "Massive explosion rocks Iran as four are killed",
       "articleCount": 1072,
       "dateTimePub": "2025-04-26T14:49:03Z",
       "url": "https://www.dailymail.co.uk/news/article-14650603/Iran-explosion-people-killed-injured.html",
       "source": "Daily Mail Online",
-      "percentage": "31.24%"
+      "percentage": "9.53%"
     },
     {
-      "original_title": "Trump administration to announce plan to remove artificial food dyes from US food supply",
+      "title": "Trump administration to announce plan to remove artificial food dyes from US food supply",
       "articleCount": 368,
       "dateTimePub": "2025-04-21T16:46:03Z",
       "url": "https://edition.cnn.com/2025/04/21/health/food-dye-removed-hhs-wellness/index.html",
       "source": "CNN International",
-      "percentage": "10.73%"
+      "percentage": "3.27%"
     },
     {
-      "original_title": "现场视频：伊朗阿巴斯港发生高强度爆炸，造成大面积破坏",
+      "title": "现场视频：伊朗阿巴斯港发生高强度爆炸，造成大面积破坏",
       "articleCount": 347,
       "dateTimePub": "2025-04-26T10:02:39Z",
       "url": "https://news.ifeng.com/c/8is0yvG0v30",
       "source": "凤凰网（凤凰新媒体）",
-      "percentage": "10.11%"
+      "percentage": "3.08%"
     },
     {
-      "original_title": "Amazon to launch 1st satellites into orbit: What to know about Project Kuiper",
+      "title": "Amazon to launch 1st satellites into orbit: What to know about Project Kuiper",
       "articleCount": 283,
       "dateTimePub": "2025-04-27T14:00:27Z",
       "url": "https://www.usatoday.com/story/news/nation/2025/04/27/amazon-rocket-launch-project-kuiper-satellites/83245277007/",
       "source": "USA Today",
-      "percentage": "8.25%"
+      "percentage": "2.51%"
     },
     {
-      "original_title": "Число погибших в результате взрыва в Иране достигло 25, пострадали 1139 человек -ВИДЕО-ОБНОВЛЕНО",
+      "title": "Число погибших в результате взрыва в Иране достигло 25, пострадали 1139 человек -ВИДЕО-ОБНОВЛЕНО",
       "articleCount": 274,
       "dateTimePub": "2025-04-27T07:09:01Z",
       "url": "https://ru.apa.az/aziya/cislo-pogibsix-v-rezultate-vzryva-v-irane-dostiglo-25-postradali-1139-celovek-video-obnovleno-608811",
       "source": "Azeri - Press Informasiya Agentliyi",
-      "percentage": "7.99%"
+      "percentage": "2.43%"
     },
     {
-      "original_title": "Iran port fire extinguished as explosion death toll rises to at least 70",
+      "title": "Iran port fire extinguished as explosion death toll rises to at least 70",
       "articleCount": 242,
       "dateTimePub": "2025-04-28T18:23:27Z",
       "url": "https://www.pbs.org/newshour/world/iran-port-fire-extinguished-as-explosion-death-toll-rises-to-at-least-70",
       "source": "PBS.org",
-      "percentage": "7.05%"
+      "percentage": "2.15%"
     },
     {
-      "original_title": "\"Puissante explosion\" dans un port important du sud du pays",
+      "title": "\"Puissante explosion\" dans un port important du sud du pays",
       "articleCount": 239,
       "dateTimePub": "2025-04-26T10:09:47Z",
       "url": "https://www.lessentiel.lu/fr/story/iran-puissante-explosion-dans-un-port-important-du-sud-du-pays-103331931",
       "source": "L'essentiel",
-      "percentage": "6.97%"
+      "percentage": "2.12%"
     },
     {
-      "original_title": "Veteran Chinese astronaut to lead fresh crew to space station",
+      "title": "Veteran Chinese astronaut to lead fresh crew to space station",
       "articleCount": 224,
       "dateTimePub": "2025-04-23T05:28:22Z",
       "url": "https://www.yahoo.com/news/veteran-chinese-astronaut-lead-fresh-052822095.html",
       "source": "Yahoo",
-      "percentage": "6.53%"
+      "percentage": "1.99%"
     },
     {
-      "original_title": "United Launch Alliance rocket delivers Amazon satellites to orbit after Florida liftoff: Photos",
+      "title": "United Launch Alliance rocket delivers Amazon satellites to orbit after Florida liftoff: Photos",
       "articleCount": 195,
       "dateTimePub": "2025-04-29T12:41:12Z",
       "url": "https://www.yahoo.com/news/united-launch-alliance-rocket-delivers-124112635.html",
       "source": "Yahoo",
-      "percentage": "5.68%"
+      "percentage": "1.73%"
     },
     {
-      "original_title": "Former ISRO chief K Kasturirangan dies at 84",
+      "title": "Former ISRO chief K Kasturirangan dies at 84",
       "articleCount": 187,
       "dateTimePub": "2025-04-25T08:04:33Z",
       "url": "https://telanganatoday.com/former-isro-chief-k-kasturirangan-dies-at-84",
       "source": "Telangana Today",
-      "percentage": "5.45%"
+      "percentage": "1.66%"
     }
   ],
   "geoMapChart": [
@@ -278,12 +278,16 @@
           "count": 2
         },
         {
+          "title": "Portugal",
+          "count": 2
+        },
+        {
           "title": "Spain",
           "count": 2
         },
         {
-          "title": "Portugal",
-          "count": 2
+          "title": "explosion",
+          "count": 1
         },
         {
           "title": "Iran",
@@ -291,10 +295,6 @@
         },
         {
           "title": "fire",
-          "count": 1
-        },
-        {
-          "title": "explosion",
           "count": 1
         }
       ]
@@ -331,15 +331,15 @@
           "count": 2
         },
         {
-          "title": "Africa",
-          "count": 2
-        },
-        {
           "title": "Africa.com",
           "count": 2
         },
         {
-          "title": "Middle class",
+          "title": "Africa",
+          "count": 2
+        },
+        {
+          "title": "Pakistan",
           "count": 2
         }
       ]
@@ -360,15 +360,15 @@
           "count": 2
         },
         {
+          "title": "Portugal",
+          "count": 1
+        },
+        {
           "title": "Spain",
           "count": 1
         },
         {
           "title": "Blackout Reveals the Achilles",
-          "count": 1
-        },
-        {
-          "title": "Portugal",
           "count": 1
         },
         {
@@ -380,11 +380,11 @@
           "count": 1
         },
         {
-          "title": "Times of India",
+          "title": "Haryana",
           "count": 1
         },
         {
-          "title": "Haryana",
+          "title": "Times of India",
           "count": 1
         }
       ]
@@ -397,14 +397,6 @@
           "count": 2
         },
         {
-          "title": "Virginia",
-          "count": 1
-        },
-        {
-          "title": "Rob Holland",
-          "count": 1
-        },
-        {
           "title": "Langley AFB",
           "count": 1
         },
@@ -413,7 +405,15 @@
           "count": 1
         },
         {
+          "title": "Virginia",
+          "count": 1
+        },
+        {
           "title": "plane crash",
+          "count": 1
+        },
+        {
+          "title": "Rob Holland",
           "count": 1
         },
         {
@@ -421,15 +421,15 @@
           "count": 1
         },
         {
-          "title": "Katy Perry",
-          "count": 1
-        },
-        {
           "title": "Camila Cabello",
           "count": 1
         },
         {
-          "title": "Lockheed Martin",
+          "title": "Katy Perry",
+          "count": 1
+        },
+        {
+          "title": "RTX",
           "count": 1
         }
       ]
@@ -446,11 +446,11 @@
           "count": 1
         },
         {
-          "title": "UNESCO",
+          "title": "US",
           "count": 1
         },
         {
-          "title": "Houthi",
+          "title": "UNESCO",
           "count": 1
         },
         {
@@ -458,7 +458,7 @@
           "count": 1
         },
         {
-          "title": "US",
+          "title": "Houthi",
           "count": 1
         },
         {
@@ -507,15 +507,15 @@
           "count": 1
         },
         {
-          "title": "leader",
-          "count": 1
-        },
-        {
           "title": "US",
           "count": 1
         },
         {
           "title": "Kim Jong Un",
+          "count": 1
+        },
+        {
+          "title": "leader",
           "count": 1
         },
         {
@@ -560,11 +560,11 @@
           "count": 1
         },
         {
-          "title": "Fort Pierce",
+          "title": "Cape Canaveral",
           "count": 1
         },
         {
-          "title": "Cape Canaveral",
+          "title": "Fort Pierce",
           "count": 1
         }
       ]

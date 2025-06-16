@@ -6,7 +6,7 @@
   "totalEvents": 9,
   "distributionChart": [
     {
-      "original_title": "'Only a fool would...': Trump says $400-mn Qatar jet more 'impressive' than outdated Air Force One",
+      "title": "'Only a fool would...': Trump says $400-mn Qatar jet more 'impressive' than outdated Air Force One",
       "articleCount": 1009,
       "dateTimePub": "2025-05-14T03:51:48Z",
       "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-news-trump-says-400-mn-qatar-jet-more-impressive-than-outdated-air-force-one-only-a-fool-would-not-accept-it/articleshow/121159724.cms",
@@ -14,7 +14,7 @@
       "percentage": "36.73%"
     },
     {
-      "original_title": "Federal officials launch investigation into Mexican tall ship that struck Brooklyn Bridge - World News",
+      "title": "Federal officials launch investigation into Mexican tall ship that struck Brooklyn Bridge - World News",
       "articleCount": 847,
       "dateTimePub": "2025-05-18T16:28:00Z",
       "url": "https://www.castanet.net/news/World/551081/Federal-officials-launch-investigation-into-Mexican-tall-ship-that-struck-Brooklyn-Bridge",
@@ -22,7 +22,7 @@
       "percentage": "30.83%"
     },
     {
-      "original_title": "Amid Indo-Pak tensions, Border surveillance set to get boost, as ISRO readies for PSLV/EOS-09 mission",
+      "title": "Amid Indo-Pak tensions, Border surveillance set to get boost, as ISRO readies for PSLV/EOS-09 mission",
       "articleCount": 160,
       "dateTimePub": "2025-05-15T11:13:05Z",
       "url": "https://www.uniindia.com/~/amid-indo-pak-tensions-border-surveillance-set-to-get-boost-as-isro-readies-for-pslv-eos-09-mission/States/news/3464392.html",
@@ -30,7 +30,7 @@
       "percentage": "5.82%"
     },
     {
-      "original_title": "Hydrogen Market Set to Expand Rapidly, Surpassing USD 430 Billion by 2032 As Discussed In New Market Research Report",
+      "title": "Hydrogen Market Set to Expand Rapidly, Surpassing USD 430 Billion by 2032 As Discussed In New Market Research Report",
       "articleCount": 157,
       "dateTimePub": "2025-05-12T13:05:03Z",
       "url": "https://www.whatech.com/og/markets-research/materials-chemicals/955973-hydrogen-market-set-to-expand-rapidly-surpassing-usd-430-billion-by-2032-persistence-market-research.html",
@@ -38,7 +38,7 @@
       "percentage": "5.72%"
     },
     {
-      "original_title": "Solar grants held hostage in Pennsylvania legislature  --  as demand soars",
+      "title": "Solar grants held hostage in Pennsylvania legislature  --  as demand soars",
       "articleCount": 128,
       "dateTimePub": "2025-05-18T13:00:00Z",
       "url": "https://grist.org/energy/solar-grants-held-hostage-in-pennsylvania-legislature-as-demand-soars/",
@@ -46,7 +46,7 @@
       "percentage": "4.66%"
     },
     {
-      "original_title": "'Lesson For Pakistan': Army Shares Video Of Operation Sindoor, Says 'Justice Served' After Pahalgam Attack",
+      "title": "'Lesson For Pakistan': Army Shares Video Of Operation Sindoor, Says 'Justice Served' After Pahalgam Attack",
       "articleCount": 122,
       "dateTimePub": "2025-05-18T07:07:26Z",
       "url": "https://www.freepressjournal.in/india/lesson-for-pakistan-army-shares-video-of-operation-sindoor-says-justice-served-after-pahalgam-attack",
@@ -54,7 +54,7 @@
       "percentage": "4.44%"
     },
     {
-      "original_title": "Unleash your cryptocurrency potential: PBK Miner allows investors to start earning passive income",
+      "title": "Unleash your cryptocurrency potential: PBK Miner allows investors to start earning passive income",
       "articleCount": 111,
       "dateTimePub": "2025-05-18T15:07:16Z",
       "url": "https://www.livebitcoinnews.com/unleash-your-cryptocurrency-potential-pbk-miner-allows-investors-to-start-earning-passive-income/",
@@ -62,7 +62,7 @@
       "percentage": "4.04%"
     },
     {
-      "original_title": "Op Sindoor: How India's tech outsmarted Pak defences",
+      "title": "Op Sindoor: How India's tech outsmarted Pak defences",
       "articleCount": 110,
       "dateTimePub": "2025-05-14T18:14:29Z",
       "url": "https://www.rediff.com/news/report/op-sindoor-how-indias-tech-outsmarted-pak-defences/20250514.htm",
@@ -70,7 +70,7 @@
       "percentage": "4.00%"
     },
     {
-      "original_title": "Airbus to cooperate with France's Parquet National Financier in preliminary investigation",
+      "title": "Airbus to cooperate with France's Parquet National Financier in preliminary investigation",
       "articleCount": 103,
       "dateTimePub": "2025-05-17T05:28:04Z",
       "url": "https://www.airbus.com/en/newsroom/press-releases/2017-03-airbus-to-cooperate-with-frances-parquet-national-financier-in",
@@ -112,26 +112,91 @@
   ],
   "weeklyEntityData": [
     {
+      "day": 1,
+      "data": [
+        {
+          "title": "EU",
+          "count": 1
+        },
+        {
+          "title": "Plug Power Inc.",
+          "count": 1
+        },
+        {
+          "title": "Plug Power Inc",
+          "count": 1
+        },
+        {
+          "title": "Siemens Energy",
+          "count": 1
+        },
+        {
+          "title": "Persistence Market Research",
+          "count": 1
+        },
+        {
+          "title": "ITM Power Mitsubishi Power Siemens Energy Ballard Power Systems",
+          "count": 1
+        },
+        {
+          "title": "Company Insights\n\nAir Liquide Linde plc Air Products and Chemicals, Inc",
+          "count": 1
+        },
+        {
+          "title": "Air Liquide",
+          "count": 1
+        },
+        {
+          "title": "Grey",
+          "count": 1
+        },
+        {
+          "title": "Industry Reports & Market Analysis Profile",
+          "count": 1
+        }
+      ]
+    },
+    {
       "day": 3,
       "data": [
+        {
+          "title": "Susan Collins",
+          "count": 1
+        },
+        {
+          "title": "Hill",
+          "count": 1
+        },
+        {
+          "title": "Boeing",
+          "count": 1
+        },
+        {
+          "title": "Defense Department",
+          "count": 1
+        },
+        {
+          "title": "Josh Hawley",
+          "count": 1
+        },
+        {
+          "title": "Hawley",
+          "count": 1
+        },
         {
           "title": "Trump",
           "count": 1
         },
         {
-          "title": "$400-mn",
+          "title": "Scott",
           "count": 1
         },
         {
-          "title": "Qatar",
+          "title": "Donald Trump",
           "count": 1
         },
         {
-          "title": "India",
-          "count": 1
-        },
-        {
-          "title": "Pak",
+          "title": "Rick Scott",
           "count": 1
         }
       ]
@@ -140,11 +205,19 @@
       "day": 4,
       "data": [
         {
-          "title": "PSLV",
+          "title": "Payload Integration Facility",
           "count": 1
         },
         {
           "title": "ISRO",
+          "count": 1
+        },
+        {
+          "title": "PSLV",
+          "count": 1
+        },
+        {
+          "title": "Cartosat",
           "count": 1
         }
       ]
@@ -153,15 +226,23 @@
       "day": 6,
       "data": [
         {
-          "title": "Airbus",
+          "title": "United Kingdom Serious Fraud Office",
           "count": 1
         },
         {
-          "title": "France",
+          "title": "Airbus Group",
           "count": 1
         },
         {
           "title": "Parquet National Financier",
+          "count": 1
+        },
+        {
+          "title": "Airbus",
+          "count": 1
+        },
+        {
+          "title": "SFO",
           "count": 1
         }
       ]
@@ -170,31 +251,43 @@
       "day": 7,
       "data": [
         {
-          "title": "Mexican",
+          "title": "Lily Katz",
           "count": 1
         },
         {
-          "title": "Brooklyn",
+          "title": "Adams",
           "count": 1
         },
         {
-          "title": "Bridge",
+          "title": "Cuauhtemoc",
           "count": 1
         },
         {
-          "title": "Pennsylvania",
+          "title": "Yuki Iwamura",
           "count": 1
         },
         {
-          "title": "Pahalgam Attack",
+          "title": "Mexican Navy",
           "count": 1
         },
         {
-          "title": "Pakistan",
+          "title": "Mexican navy",
           "count": 1
         },
         {
-          "title": "PBK Miner",
+          "title": "New York Police Department Special Operations",
+          "count": 1
+        },
+        {
+          "title": "Katz",
+          "count": 1
+        },
+        {
+          "title": "navy",
+          "count": 1
+        },
+        {
+          "title": "Claudia Sheinbaum",
           "count": 1
         }
       ]

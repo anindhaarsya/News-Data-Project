@@ -1,10 +1,20 @@
 import os
 import json
+import sys
 import hashlib
 from collections import defaultdict
 from datetime import datetime
 import pycountry
 import tldextract
+
+# Cek apakah ada argumen nama file
+specific_file = None
+for arg in sys.argv[1:]:
+    if arg.endswith(".json"):
+        specific_file = arg
+        break
+
+force = "--force" in sys.argv
 
 # === Load mapping hasil scraping
 with open("D:/proyek_folder/news_websites_by_country_mapped_UPDATED.json", "r", encoding="utf-8") as f:
@@ -59,7 +69,6 @@ def find_country_from_scraped_title(source_title):
 input_dir = "D:/proyek_folder/input_jsons"
 output_dir = "D:/proyek_folder/output_jsons/daily"
 log_file_path = "D:/proyek_folder/processed_files_hash.log"
-unmatched_log_path = "D:/proyek_folder/unmatched_sources.txt"
 
 os.makedirs(output_dir, exist_ok=True)
 
@@ -69,7 +78,6 @@ if os.path.exists(log_file_path):
         existing_hashes = {line.strip().split()[0] for line in f}
 
 new_hash_lines = []
-unmatched_sources = set()
 
 daily_data = defaultdict(lambda: {
     "totalNews": 0,
@@ -79,14 +87,19 @@ daily_data = defaultdict(lambda: {
     "geoMapChart": defaultdict(int)
 })
 
-for filename in sorted(os.listdir(input_dir)):
+# === Loop file
+all_files = [specific_file] if specific_file else sorted(os.listdir(input_dir))
+for filename in all_files:
     if not filename.endswith(".json"):
         continue
 
-    filepath = os.path.join(input_dir, filename)
-    file_hash = get_md5(filepath)
+    filepath = os.path.join(input_dir, filename) if not os.path.isabs(filename) else filename
+    if not os.path.exists(filepath):
+        print(f"❌ File tidak ditemukan: {filepath}")
+        continue
 
-    if file_hash in existing_hashes:
+    file_hash = get_md5(filepath)
+    if file_hash in existing_hashes and not force:
         print(f"⚠️  Lewati (sudah diproses): {filename}")
         continue
 
@@ -123,7 +136,6 @@ for filename in sorted(os.listdir(input_dir)):
         source_title = (safe_get(medoid, ["source", "title"]) or "").strip()
         source_country = safe_get(medoid, ["source", "location", "country", "label", "eng"])
 
-        # Fallback
         if not source_country or not source_country.strip():
             source_country = SCRAPED_SOURCE_TO_COUNTRY.get(source_title)
             if not source_country:
@@ -142,9 +154,6 @@ for filename in sorted(os.listdir(input_dir)):
                 }
                 source_country = cc_map.get(domain.lower(), "Unknown")
 
-        if not source_country or source_country == "Unknown":
-            unmatched_sources.add(source_title)
-
         source_country = manual_country_name_map.get(source_country, source_country)
         iso_code = get_iso_country_code(source_country)
 
@@ -160,7 +169,7 @@ for filename in sorted(os.listdir(input_dir)):
 
 # === Save JSON harian
 for date_str, content in sorted(daily_data.items()):
-    total_articles = sum(item["articleCount"] for item in content["distributionChart"] if item["articleCount"])
+    total_articles = content["totalNews"]
     chart_sorted = sorted(content["distributionChart"], key=lambda x: x["articleCount"] or 0, reverse=True)[:10]
 
     for item in chart_sorted:
@@ -191,11 +200,4 @@ if new_hash_lines:
         f.write("\n".join(new_hash_lines) + "\n")
     print("📝 Hash baru ditambahkan ke log.")
 
-# Simpan unmatched
-if unmatched_sources:
-    with open(unmatched_log_path, "w", encoding="utf-8") as f:
-        for s in sorted(unmatched_sources):
-            f.write(s + "\n")
-    print(f"🧾 Disimpan unmatched_sources.txt ({len(unmatched_sources)} sumber)")
-else:
-    print("✅ Semua sumber berhasil dikenali 🎉")
+print("✅ Selesai semua 🎉")

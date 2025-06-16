@@ -1,0 +1,473 @@
+{
+  "startDate": "2025-04-21",
+  "endDate": "2025-04-27",
+  "totalNews": 4373,
+  "totalPublishers": 43,
+  "totalEvents": 46,
+  "distributionChart": [
+    {
+      "title": "Massive explosion rocks Iran as four are killed",
+      "articleCount": 1072,
+      "dateTimePub": "2025-04-26T14:49:03Z",
+      "url": "https://www.dailymail.co.uk/news/article-14650603/Iran-explosion-people-killed-injured.html",
+      "source": "Daily Mail Online",
+      "percentage": "39.17%"
+    },
+    {
+      "title": "Trump administration to announce plan to remove artificial food dyes from US food supply",
+      "articleCount": 368,
+      "dateTimePub": "2025-04-21T16:46:03Z",
+      "url": "https://edition.cnn.com/2025/04/21/health/food-dye-removed-hhs-wellness/index.html",
+      "source": "CNN International",
+      "percentage": "13.45%"
+    },
+    {
+      "title": "Amazon to launch 1st satellites into orbit: What to know about Project Kuiper",
+      "articleCount": 283,
+      "dateTimePub": "2025-04-27T14:00:27Z",
+      "url": "https://www.usatoday.com/story/news/nation/2025/04/27/amazon-rocket-launch-project-kuiper-satellites/83245277007/",
+      "source": "USA Today",
+      "percentage": "10.34%"
+    },
+    {
+      "title": "Veteran Chinese astronaut to lead fresh crew to space station",
+      "articleCount": 224,
+      "dateTimePub": "2025-04-23T05:28:22Z",
+      "url": "https://www.yahoo.com/news/veteran-chinese-astronaut-lead-fresh-052822095.html",
+      "source": "Yahoo",
+      "percentage": "8.18%"
+    },
+    {
+      "title": "Former ISRO chief K Kasturirangan dies at 84",
+      "articleCount": 187,
+      "dateTimePub": "2025-04-25T08:04:33Z",
+      "url": "https://telanganatoday.com/former-isro-chief-k-kasturirangan-dies-at-84",
+      "source": "Telangana Today",
+      "percentage": "6.83%"
+    },
+    {
+      "title": "US says blast near Yemen UNESCO world heritage site caused by Houthi missile",
+      "articleCount": 142,
+      "dateTimePub": "2025-04-25T03:31:00Z",
+      "url": "https://english.alarabiya.net/News/middle-east/2025/04/25/us-says-blast-near-yemen-unesco-world-heritage-site-caused-by-houthi-missile",
+      "source": "قناة العربية",
+      "percentage": "5.19%"
+    },
+    {
+      "title": "In US, saving money is top reason to embrace solar power",
+      "articleCount": 133,
+      "dateTimePub": "2025-04-22T12:11:22Z",
+      "url": "https://www.eurekalert.org/news-releases/1081210",
+      "source": "EurekAlert!",
+      "percentage": "4.86%"
+    },
+    {
+      "title": "'Energy security' is being used to justify more fossil fuels - but this will only make us less secure",
+      "articleCount": 130,
+      "dateTimePub": "2025-04-23T03:29:29Z",
+      "url": "https://www.unitedkingdomnews.net/news/278181625/energy-security-is-being-used-to-justify-more-fossil-fuels-but-this-will-only-make-us-less-secure",
+      "source": "United Kingdom News",
+      "percentage": "4.75%"
+    },
+    {
+      "title": "Artificial Intelligence: The Hidden Enemy Consuming Our World?",
+      "articleCount": 105,
+      "dateTimePub": "2025-04-21T09:25:25Z",
+      "url": "https://www.raillynews.com/2025/04/Is-artificial-intelligence-the-hidden-enemy-that-is-consuming-our-world/",
+      "source": "RayHaber | RaillyNews",
+      "percentage": "3.84%"
+    },
+    {
+      "title": "Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+      "articleCount": 93,
+      "dateTimePub": "2025-04-26T13:41:03Z",
+      "url": "https://spaceflightnow.com/2025/04/26/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-3/",
+      "source": "Spaceflight Now",
+      "percentage": "3.40%"
+    }
+  ],
+  "geoMapChart": [
+    {
+      "country": "United States",
+      "countryCode": "us",
+      "articleCount": 1650
+    },
+    {
+      "country": "United Kingdom",
+      "countryCode": "gb",
+      "articleCount": 1281
+    },
+    {
+      "country": "India",
+      "countryCode": "in",
+      "articleCount": 646
+    },
+    {
+      "country": "Saudi Arabia",
+      "countryCode": "sa",
+      "articleCount": 152
+    },
+    {
+      "country": "Unknown",
+      "countryCode": "un",
+      "articleCount": 127
+    },
+    {
+      "country": "United Arab Emirates",
+      "countryCode": "ae",
+      "articleCount": 116
+    },
+    {
+      "country": "Canada",
+      "countryCode": "ca",
+      "articleCount": 94
+    },
+    {
+      "country": "Nigeria",
+      "countryCode": "ng",
+      "articleCount": 75
+    },
+    {
+      "country": "Israel",
+      "countryCode": "il",
+      "articleCount": 70
+    },
+    {
+      "country": "Philippines",
+      "countryCode": "ph",
+      "articleCount": 63
+    },
+    {
+      "country": "South Africa",
+      "countryCode": "za",
+      "articleCount": 40
+    },
+    {
+      "country": "Yemen",
+      "countryCode": "ye",
+      "articleCount": 30
+    },
+    {
+      "country": "Australia",
+      "countryCode": "au",
+      "articleCount": 29
+    }
+  ],
+  "weeklyEntityData": [
+    {
+      "day": 1,
+      "data": [
+        {
+          "title": "US Food and Drug Administration",
+          "count": 1
+        },
+        {
+          "title": "Meg Tirrell",
+          "count": 1
+        },
+        {
+          "title": "Trump",
+          "count": 1
+        },
+        {
+          "title": "Marty Makary",
+          "count": 1
+        },
+        {
+          "title": "HHS",
+          "count": 1
+        },
+        {
+          "title": "Joe Biden",
+          "count": 1
+        },
+        {
+          "title": "FDA",
+          "count": 1
+        },
+        {
+          "title": "Kristen Rogers",
+          "count": 1
+        },
+        {
+          "title": "Patrick Morrisey",
+          "count": 1
+        },
+        {
+          "title": "Robert F. Kennedy Jr.",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "data": [
+        {
+          "title": "NYSE",
+          "count": 2
+        },
+        {
+          "title": "Pew Research Center",
+          "count": 1
+        },
+        {
+          "title": "Naseem Dillman-Hasso",
+          "count": 1
+        },
+        {
+          "title": "Dillman-Hasso",
+          "count": 1
+        },
+        {
+          "title": "Sintov",
+          "count": 1
+        },
+        {
+          "title": "Ohio State University",
+          "count": 1
+        },
+        {
+          "title": "Interstate Gas Supply - Energy",
+          "count": 1
+        },
+        {
+          "title": "Energy Research & Social Science",
+          "count": 1
+        },
+        {
+          "title": "Nicole Sintov",
+          "count": 1
+        },
+        {
+          "title": "Ohio State",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "data": [
+        {
+          "title": "NASA",
+          "count": 2
+        },
+        {
+          "title": "China Manned Space Agency",
+          "count": 2
+        },
+        {
+          "title": "CMSA",
+          "count": 2
+        },
+        {
+          "title": "Center for Asian Studies",
+          "count": 1
+        },
+        {
+          "title": "Chen Dong",
+          "count": 1
+        },
+        {
+          "title": "Chen Zhongrui",
+          "count": 1
+        },
+        {
+          "title": "Xi Jinping",
+          "count": 1
+        },
+        {
+          "title": "Donald Trump",
+          "count": 1
+        },
+        {
+          "title": "Wang Jie",
+          "count": 1
+        },
+        {
+          "title": "Wang",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "data": [
+        {
+          "title": "Reuters",
+          "count": 3
+        },
+        {
+          "title": "NASA",
+          "count": 2
+        },
+        {
+          "title": "Trump",
+          "count": 2
+        },
+        {
+          "title": "Donald Trump",
+          "count": 2
+        },
+        {
+          "title": "DOD",
+          "count": 1
+        },
+        {
+          "title": "Aviation Management",
+          "count": 1
+        },
+        {
+          "title": "NTSB",
+          "count": 1
+        },
+        {
+          "title": "Facebook",
+          "count": 1
+        },
+        {
+          "title": "Rob",
+          "count": 1
+        },
+        {
+          "title": "Muntean",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "data": [
+        {
+          "title": "K Kasturirangan",
+          "count": 1
+        },
+        {
+          "title": "Raman Research Institute",
+          "count": 1
+        },
+        {
+          "title": "NEP",
+          "count": 1
+        },
+        {
+          "title": "Kasturirangan",
+          "count": 1
+        },
+        {
+          "title": "Karnataka Knowledge Commission",
+          "count": 1
+        },
+        {
+          "title": "Rajya Sabha",
+          "count": 1
+        },
+        {
+          "title": "National Education Policy",
+          "count": 1
+        },
+        {
+          "title": "National Institute of Advanced Studies",
+          "count": 1
+        },
+        {
+          "title": "Jawaharlal Nehru University",
+          "count": 1
+        },
+        {
+          "title": "ISRO",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "data": [
+        {
+          "title": "Witkoff",
+          "count": 1
+        },
+        {
+          "title": "Abbas Araghchi",
+          "count": 1
+        },
+        {
+          "title": "Associated Press",
+          "count": 1
+        },
+        {
+          "title": "Financial Times",
+          "count": 1
+        },
+        {
+          "title": "Islamic Republic of Iran Broadcasting News",
+          "count": 1
+        },
+        {
+          "title": "Badr al-Busaidi",
+          "count": 1
+        },
+        {
+          "title": "Foreign Ministry",
+          "count": 1
+        },
+        {
+          "title": "United Nations",
+          "count": 1
+        },
+        {
+          "title": "IRNA",
+          "count": 1
+        },
+        {
+          "title": "Islamic Republic News Agency",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "data": [
+        {
+          "title": "Elon Musk",
+          "count": 2
+        },
+        {
+          "title": "Jeff Bezos",
+          "count": 2
+        },
+        {
+          "title": "Amazon",
+          "count": 2
+        },
+        {
+          "title": "Starlink",
+          "count": 2
+        },
+        {
+          "title": "Rebecca M. Lobach",
+          "count": 1
+        },
+        {
+          "title": "Congress",
+          "count": 1
+        },
+        {
+          "title": "Federal Aviation Administration",
+          "count": 1
+        },
+        {
+          "title": "New York Times",
+          "count": 1
+        },
+        {
+          "title": "Times",
+          "count": 1
+        },
+        {
+          "title": "Michael McCormick",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

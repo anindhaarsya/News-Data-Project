@@ -82,7 +82,7 @@ def extract_entities(text):
         entities = result.get('entities', []) if isinstance(result, dict) else []
         return [
             (e.get('label') or e.get('text', '')).strip()
-            for e in entities if isinstance(e, dict) and e.get('type', '').upper() not in {'DATE', 'NUMBER', 'TIME'}
+            for e in entities if isinstance(e, dict) and e.get('type', '').upper() not in {'DATE', 'NUMBER', 'TIME', 'PERCENT'}
         ]
     except Exception as e:
         print(f"⚠️ NER Error: {e}")
@@ -172,7 +172,7 @@ def process_weekly():
                 week["totalPublishers"].add(source_title)
 
                 week["distributionChart"].append({
-                    "original_title": title,
+                    "title": title,
                     "articleCount": article_count,
                     "dateTimePub": pub_date_str,
                     "url": medoid.get("url", ""),
@@ -187,9 +187,9 @@ def process_weekly():
             continue
 
         top_articles = sorted(content["distributionChart"], key=lambda x: x["articleCount"], reverse=True)[:10]
-        total_top = sum(a["articleCount"] for a in top_articles)
+        total_weekly_articles = content["totalNews"]
         for a in top_articles:
-            a["percentage"] = f"{(a['articleCount'] / total_top * 100):.2f}%" if total_top else "0%"
+            a["percentage"] = f"{(a['articleCount'] / total_weekly_articles * 100):.2f}%" if total_weekly_articles else "0%"
 
         geo_map = [
             {"country": get_country_name(code), "countryCode": code.lower(), "articleCount": count}
@@ -207,7 +207,7 @@ def process_weekly():
             for day, d in sorted(content["weeklyEntityData"].items())
         ]
 
-        with open(os.path.join(OUTPUT_DIR, f"{week_key}_report.json"), "w", encoding="utf-8") as f:
+        with open(os.path.join(OUTPUT_DIR, f"{week_key}.json"), "w", encoding="utf-8") as f:
             json.dump({
                 "startDate": content["startDate"],
                 "endDate": content["endDate"],
@@ -218,7 +218,7 @@ def process_weekly():
                 "geoMapChart": geo_map,
                 "weeklyEntityData": ner_data
             }, f, indent=2, ensure_ascii=False)
-        print(f"✅ Saved: {week_key}_report.json")
+        print(f"✅ Saved: {week_key}.json")
 
     if new_hashes:
         with open(LOG_FILE, "a") as f:

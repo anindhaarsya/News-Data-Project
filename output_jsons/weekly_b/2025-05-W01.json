@@ -1,0 +1,210 @@
+{
+  "startDate": "2025-04-28",
+  "endDate": "2025-05-04",
+  "totalNews": 840,
+  "totalPublishers": 7,
+  "totalEvents": 7,
+  "distributionChart": [
+    {
+      "title": "Pakistan test-fires ballistic missile as tensions with India rise - RocketNews",
+      "articleCount": 237,
+      "dateTimePub": "2025-05-03T10:35:24Z",
+      "url": "https://rocketnews.com/2025/05/pakistan-test-fires-ballistic-missile-as-tensions-with-india-rise/",
+      "source": "RocketNews | Top News Stories From Around the Globe",
+      "percentage": "28.21%"
+    },
+    {
+      "title": "It's enough for millions of years  --  The hope of mankind, 950 meters underground in this country",
+      "articleCount": 153,
+      "dateTimePub": "2025-05-01T11:58:54Z",
+      "url": "https://www.ecoticias.com/en/mankind-950-meters-energy-underground/14161/",
+      "source": "ECOticias.com",
+      "percentage": "18.21%"
+    },
+    {
+      "title": "Why Millionaires Avoid Salaries & Focus on This Instead!Attention XRP, BCH and DOGE enthusiasts | Bitcoinist.com",
+      "articleCount": 132,
+      "dateTimePub": "2025-05-04T17:00:59Z",
+      "url": "https://bitcoinist.com/why-millionaires-avoid-salaries-focus-on-this-insteadattention-xrp-bch-and-doge-enthusiasts/",
+      "source": "Bitcoinist.com",
+      "percentage": "15.71%"
+    },
+    {
+      "title": "Orion Artemis II Moon spacecraft completes testing | Aerospace Testing International",
+      "articleCount": 100,
+      "dateTimePub": "2025-05-02T10:18:32Z",
+      "url": "https://www.aerospacetestinginternational.com/news/orion-artemis-ii-moon-spacecraft-completes-testing.html",
+      "source": "Aerospace Testing International",
+      "percentage": "11.90%"
+    },
+    {
+      "title": "City's annual Water Conservation Program kicks off | Cranbrook",
+      "articleCount": 97,
+      "dateTimePub": "2025-05-01T16:35:39Z",
+      "url": "https://www.e-know.ca/regions/cranbrook/citys-annual-water-conservation-program-kicks-off/",
+      "source": "East Kootenay News Online Weekly",
+      "percentage": "11.55%"
+    },
+    {
+      "title": "More than 300,000 homes at risk of electricity disruption from start of July - Daily Record",
+      "articleCount": 63,
+      "dateTimePub": "2025-05-01T07:28:48Z",
+      "url": "https://www.dailyrecord.co.uk/lifestyle/money/homes-risk-electricity-disruption-summer-35149497",
+      "source": "Daily Record",
+      "percentage": "7.50%"
+    },
+    {
+      "title": "US Army plans massive increase in its use of drones",
+      "articleCount": 58,
+      "dateTimePub": "2025-05-01T04:56:57Z",
+      "url": "https://www.livemint.com/global/us-army-plans-massive-increase-in-its-use-of-drones-11746072879716.html",
+      "source": "mint",
+      "percentage": "6.90%"
+    }
+  ],
+  "geoMapChart": [
+    {
+      "country": "Japan",
+      "countryCode": "jp",
+      "articleCount": 237
+    },
+    {
+      "country": "United Kingdom",
+      "countryCode": "gb",
+      "articleCount": 163
+    },
+    {
+      "country": "Spain",
+      "countryCode": "es",
+      "articleCount": 153
+    },
+    {
+      "country": "United States",
+      "countryCode": "us",
+      "articleCount": 132
+    },
+    {
+      "country": "Canada",
+      "countryCode": "ca",
+      "articleCount": 97
+    },
+    {
+      "country": "India",
+      "countryCode": "in",
+      "articleCount": 58
+    }
+  ],
+  "weeklyEntityData": [
+    {
+      "day": 4,
+      "data": [
+        {
+          "title": "Tanya Nadeau",
+          "count": 1
+        },
+        {
+          "title": "City of Cranbrook",
+          "count": 1
+        },
+        {
+          "title": "RTS",
+          "count": 1
+        },
+        {
+          "title": "Ofgem",
+          "count": 1
+        },
+        {
+          "title": "Ned Hammond",
+          "count": 1
+        },
+        {
+          "title": "BBC Radio",
+          "count": 1
+        },
+        {
+          "title": "Energy UK",
+          "count": 1
+        },
+        {
+          "title": "End Fuel Poverty Coalition",
+          "count": 1
+        },
+        {
+          "title": "Simon Francis",
+          "count": 1
+        },
+        {
+          "title": "Pete Hegseth",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "data": [
+        {
+          "title": "NASA",
+          "count": 1
+        },
+        {
+          "title": "Neil A. Armstrong Operations",
+          "count": 1
+        },
+        {
+          "title": "Christina Koch",
+          "count": 1
+        },
+        {
+          "title": "Lockheed",
+          "count": 1
+        },
+        {
+          "title": "EGS",
+          "count": 1
+        },
+        {
+          "title": "Artemis VIII",
+          "count": 1
+        },
+        {
+          "title": "Orion",
+          "count": 1
+        },
+        {
+          "title": "Jeremy Hansen",
+          "count": 1
+        },
+        {
+          "title": "Kirk Shireman",
+          "count": 1
+        },
+        {
+          "title": "Artemis",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "data": [
+        {
+          "title": "Asif Ali Zardari",
+          "count": 1
+        },
+        {
+          "title": "Ahmad Shah Abdali",
+          "count": 1
+        },
+        {
+          "title": "Attaullah Tarar",
+          "count": 1
+        },
+        {
+          "title": "Shehbaz Sharif",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

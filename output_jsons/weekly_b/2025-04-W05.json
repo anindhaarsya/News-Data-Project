@@ -1,0 +1,323 @@
+{
+  "startDate": "2025-04-28",
+  "endDate": "2025-05-04",
+  "totalNews": 4909,
+  "totalPublishers": 65,
+  "totalEvents": 64,
+  "distributionChart": [
+    {
+      "title": "Iran port fire extinguished as explosion death toll rises to at least 70",
+      "articleCount": 242,
+      "dateTimePub": "2025-04-28T18:23:27Z",
+      "url": "https://www.pbs.org/newshour/world/iran-port-fire-extinguished-as-explosion-death-toll-rises-to-at-least-70",
+      "source": "PBS.org",
+      "percentage": "16.11%"
+    },
+    {
+      "title": "United Launch Alliance rocket delivers Amazon satellites to orbit after Florida liftoff: Photos",
+      "articleCount": 195,
+      "dateTimePub": "2025-04-29T12:41:12Z",
+      "url": "https://www.yahoo.com/news/united-launch-alliance-rocket-delivers-124112635.html",
+      "source": "Yahoo",
+      "percentage": "12.98%"
+    },
+    {
+      "title": "Unlocking Kazakhstan's hydrogen future, EU encouraged to increase support",
+      "articleCount": 155,
+      "dateTimePub": "2025-04-28T21:54:04Z",
+      "url": "https://www.euractiv.com/section/eet/news/unlocking-kazakhstans-hydrogen-future-eu-encouraged-to-increase-support/",
+      "source": "EurActiv.com",
+      "percentage": "10.32%"
+    },
+    {
+      "title": "UP Aims for 500 GW Solar Power by 2030",
+      "articleCount": 151,
+      "dateTimePub": "2025-04-29T09:02:12Z",
+      "url": "https://money.rediff.com/news/market/up-aims-for-500-gw-solar-power-by-2030/26004920250429",
+      "source": "Rediff",
+      "percentage": "10.05%"
+    },
+    {
+      "title": "UP Aims for 500 GW Solar Power by 2030",
+      "articleCount": 151,
+      "dateTimePub": "2025-04-29T09:02:12Z",
+      "url": "https://money.rediff.com/news/market/up-aims-for-500-gw-solar-power-by-2030/26004920250429",
+      "source": "Rediff",
+      "percentage": "10.05%"
+    },
+    {
+      "title": "Spain & Portugal",
+      "articleCount": 144,
+      "dateTimePub": "2025-04-29T06:42:36Z",
+      "url": "https://www.no2nuclearpower.org.uk/news/spain-portugal-29-4-25/",
+      "source": "No2NuclearPower",
+      "percentage": "9.59%"
+    },
+    {
+      "title": "Blair demands net zero policy reset over 'credibility gap with voters' in blow to Miliband",
+      "articleCount": 123,
+      "dateTimePub": "2025-04-28T23:01:00Z",
+      "url": "https://ca.news.yahoo.com/blair-demands-net-zero-policy-230100891.html",
+      "source": "Yahoo",
+      "percentage": "8.19%"
+    },
+    {
+      "title": "It's time to reset our failing climate policies, says Tony Blair",
+      "articleCount": 121,
+      "dateTimePub": "2025-04-29T01:14:20Z",
+      "url": "https://www.yahoo.com/news/blair-demands-net-zero-policy-230100891.html",
+      "source": "Yahoo",
+      "percentage": "8.06%"
+    },
+    {
+      "title": "Spain & Portugal",
+      "articleCount": 120,
+      "dateTimePub": "2025-04-29T06:42:36Z",
+      "url": "https://www.no2nuclearpower.org.uk/news/spain-portugal-29-4-25/",
+      "source": "No2NuclearPower",
+      "percentage": "7.99%"
+    },
+    {
+      "title": "Ather Energy IPO Day 1: Live GMP Update, Full Listing Details, What Experts Say? Is Ather IPO Worth Bidding?",
+      "articleCount": 100,
+      "dateTimePub": "2025-04-28T04:56:37Z",
+      "url": "https://www.goodreturns.in/news/ather-energy-ipo-day-1-live-gmp-update-full-listing-details-expert-recommendations-is-ather-ipo-1423951.html?28042025103148",
+      "source": "Goodreturns",
+      "percentage": "6.66%"
+    }
+  ],
+  "geoMapChart": [
+    {
+      "country": "United States",
+      "countryCode": "us",
+      "articleCount": 1583
+    },
+    {
+      "country": "India",
+      "countryCode": "in",
+      "articleCount": 844
+    },
+    {
+      "country": "United Kingdom",
+      "countryCode": "gb",
+      "articleCount": 797
+    },
+    {
+      "country": "France",
+      "countryCode": "fr",
+      "articleCount": 272
+    },
+    {
+      "country": "South Africa",
+      "countryCode": "za",
+      "articleCount": 176
+    },
+    {
+      "country": "Belgium",
+      "countryCode": "be",
+      "articleCount": 155
+    },
+    {
+      "country": "Korea, Republic of",
+      "countryCode": "kr",
+      "articleCount": 154
+    },
+    {
+      "country": "Pakistan",
+      "countryCode": "pk",
+      "articleCount": 123
+    },
+    {
+      "country": "Germany",
+      "countryCode": "de",
+      "articleCount": 121
+    },
+    {
+      "country": "Canada",
+      "countryCode": "ca",
+      "articleCount": 110
+    },
+    {
+      "country": "Singapore",
+      "countryCode": "sg",
+      "articleCount": 101
+    },
+    {
+      "country": "China",
+      "countryCode": "cn",
+      "articleCount": 92
+    },
+    {
+      "country": "Unknown",
+      "countryCode": "un",
+      "articleCount": 88
+    },
+    {
+      "country": "Spain",
+      "countryCode": "es",
+      "articleCount": 61
+    },
+    {
+      "country": "Ukraine",
+      "countryCode": "ua",
+      "articleCount": 56
+    },
+    {
+      "country": "Australia",
+      "countryCode": "au",
+      "articleCount": 52
+    },
+    {
+      "country": "Ireland",
+      "countryCode": "ie",
+      "articleCount": 47
+    },
+    {
+      "country": "Denmark",
+      "countryCode": "dk",
+      "articleCount": 43
+    },
+    {
+      "country": "Iran, Islamic Republic of",
+      "countryCode": "ir",
+      "articleCount": 34
+    }
+  ],
+  "weeklyEntityData": [
+    {
+      "day": 1,
+      "data": [
+        {
+          "title": "EU",
+          "count": 3
+        },
+        {
+          "title": "People's Liberation Army Air Force",
+          "count": 2
+        },
+        {
+          "title": "University of Cambridge",
+          "count": 2
+        },
+        {
+          "title": "Eduardo Nilson",
+          "count": 2
+        },
+        {
+          "title": "Oswaldo Cruz Foundation",
+          "count": 2
+        },
+        {
+          "title": "University of Oxford",
+          "count": 2
+        },
+        {
+          "title": "Astbury",
+          "count": 2
+        },
+        {
+          "title": "Stephen Burgess",
+          "count": 2
+        },
+        {
+          "title": "MRC Biostatistics Unit",
+          "count": 2
+        },
+        {
+          "title": "Nilson",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "data": [
+        {
+          "title": "Trump",
+          "count": 13
+        },
+        {
+          "title": "Donald Trump",
+          "count": 8
+        },
+        {
+          "title": "Reuters",
+          "count": 7
+        },
+        {
+          "title": "NASA",
+          "count": 6
+        },
+        {
+          "title": "EU",
+          "count": 4
+        },
+        {
+          "title": "Sánchez",
+          "count": 4
+        },
+        {
+          "title": "European Commission",
+          "count": 4
+        },
+        {
+          "title": "BTC",
+          "count": 4
+        },
+        {
+          "title": "Bitcoin",
+          "count": 4
+        },
+        {
+          "title": "Kim",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "data": [
+        {
+          "title": "GW",
+          "count": 3
+        },
+        {
+          "title": "Chinese Manned Space Agency",
+          "count": 2
+        },
+        {
+          "title": "Tiangong",
+          "count": 2
+        },
+        {
+          "title": "Wang Haoze",
+          "count": 2
+        },
+        {
+          "title": "Cai Xuzhe",
+          "count": 2
+        },
+        {
+          "title": "CCTV",
+          "count": 2
+        },
+        {
+          "title": "Wang",
+          "count": 2
+        },
+        {
+          "title": "CMSA",
+          "count": 2
+        },
+        {
+          "title": "Song Lingdong",
+          "count": 2
+        },
+        {
+          "title": "Cai",
+          "count": 2
+        }
+      ]
+    }
+  ]
+}

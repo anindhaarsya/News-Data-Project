@@ -1,0 +1,439 @@
+{
+  "startDate": "2025-05-19",
+  "endDate": "2025-05-25",
+  "totalNews": 3682,
+  "totalPublishers": 17,
+  "totalEvents": 17,
+  "distributionChart": [
+    {
+      "title": "Russia and Ukraine swap hundreds more prisoners, hours after a massive attack on Kyiv",
+      "articleCount": 947,
+      "dateTimePub": "2025-05-24T07:54:15Z",
+      "url": "https://www.washingtontimes.com/news/2025/may/24/ukraine-russia-swap-hundreds-prisoners-hours-massive-attack-kyiv/",
+      "source": "Washington Times",
+      "percentage": "29.82%"
+    },
+    {
+      "title": "All About Trump's Golden Dome Defence System, 1st US Weapon In Space",
+      "articleCount": 563,
+      "dateTimePub": "2025-05-21T02:52:38Z",
+      "url": "https://www.ndtv.com/world-news/all-about-trumps-golden-dome-defense-system-1st-us-weapon-in-space-8467125",
+      "source": "NDTV",
+      "percentage": "17.73%"
+    },
+    {
+      "title": "North Korea's second naval destroyer is damaged in a failed launch at a ceremony attended by President Kim Jong-un",
+      "articleCount": 376,
+      "dateTimePub": "2025-05-22T08:00:16Z",
+      "url": "https://www.thehindu.com/news/international/north-koreas-second-naval-destroyer-is-damaged-in-a-failed-launch-at-a-ceremony-attended-by-president-kim-jong-un/article69605063.ece",
+      "source": "The Hindu",
+      "percentage": "11.84%"
+    },
+    {
+      "title": "Who Is Music Agent And Pilot Dave Shapiro, Co-owner Of Sound Talent Group Who Died In Cessna 500 San Diego Plane Crash - The SportsGrail",
+      "articleCount": 310,
+      "dateTimePub": "2025-05-23T11:10:36Z",
+      "url": "https://thesportsgrail.com/who-is-music-agent-and-pilot-dave-shapiro-co-owner-of-sound-talent-group-who-died-in-cessna-500-san-diego-plane-crash/",
+      "source": "The SportsGrail",
+      "percentage": "9.76%"
+    },
+    {
+      "title": "Pentagon says it has accepted Boeing jet from Qatar that will be used for Trump",
+      "articleCount": 251,
+      "dateTimePub": "2025-05-21T17:13:46Z",
+      "url": "https://www.cbsnews.com/newyork/news/qatar-jet-trump-boeing-pentagon/",
+      "source": "CBS News",
+      "percentage": "7.90%"
+    },
+    {
+      "title": "Trump signs executive orders to boost nuclear power, speed up approvals",
+      "articleCount": 200,
+      "dateTimePub": "2025-05-23T22:20:46Z",
+      "url": "https://www.stamfordadvocate.com/business/article/trump-signs-executive-orders-to-boost-nuclear-20343171.php",
+      "source": "stamford advocate",
+      "percentage": "6.30%"
+    },
+    {
+      "title": "'Disappointing' hydrogen sector needs government backing",
+      "articleCount": 155,
+      "dateTimePub": "2025-05-20T09:53:10Z",
+      "url": "https://www.energyvoice.com/renewables-energy-transition/hydrogen/572947/hydrogen-sector-needs-government-backing/",
+      "source": "Energy Voice",
+      "percentage": "4.88%"
+    },
+    {
+      "title": "Developer to resume NY offshore wind project after Trump administration lifts pause",
+      "articleCount": 135,
+      "dateTimePub": "2025-05-19T23:43:33Z",
+      "url": "https://ktar.com/national-news/developer-to-resume-ny-offshore-wind-project-after-trump-administration-lifts-pause/5707665/",
+      "source": "KTAR News",
+      "percentage": "4.25%"
+    },
+    {
+      "title": "Trump says his Golden Dome missile defence program will include Canada",
+      "articleCount": 123,
+      "dateTimePub": "2025-05-20T20:36:24Z",
+      "url": "https://lethbridgeherald.com/news/national-news/2025/05/20/trump-says-his-golden-dome-missile-defence-program-will-include-canada/",
+      "source": "The Lethbridge Herald - News and Sports from around Lethbridge",
+      "percentage": "3.87%"
+    },
+    {
+      "title": "XRP Mining: One of The most trusted Bitcoin cloud mining platform in 2025, easily open the road to high-yield investment",
+      "articleCount": 116,
+      "dateTimePub": "2025-05-21T21:01:09Z",
+      "url": "https://coindoo.com/xrp-mining-one-of-the-most-trusted-bitcoin-cloud-mining-platform-in-2025-easily-open-the-road-to-high-yield-investment/",
+      "source": "Coindoo",
+      "percentage": "3.65%"
+    }
+  ],
+  "geoMapChart": [
+    {
+      "country": "United States",
+      "countryCode": "us",
+      "articleCount": 1667
+    },
+    {
+      "country": "India",
+      "countryCode": "in",
+      "articleCount": 1452
+    },
+    {
+      "country": "United Kingdom",
+      "countryCode": "gb",
+      "articleCount": 250
+    },
+    {
+      "country": "Canada",
+      "countryCode": "ca",
+      "articleCount": 123
+    },
+    {
+      "country": "Romania",
+      "countryCode": "ro",
+      "articleCount": 116
+    },
+    {
+      "country": "Lebanon",
+      "countryCode": "lb",
+      "articleCount": 58
+    },
+    {
+      "country": "Unknown",
+      "countryCode": "un",
+      "articleCount": 16
+    }
+  ],
+  "weeklyEntityData": [
+    {
+      "day": 1,
+      "data": [
+        {
+          "title": "Hochul",
+          "count": 1
+        },
+        {
+          "title": "National Oceanic and Atmospheric Administration",
+          "count": 1
+        },
+        {
+          "title": "White House",
+          "count": 1
+        },
+        {
+          "title": "Taylor Rogers",
+          "count": 1
+        },
+        {
+          "title": "Joe Biden",
+          "count": 1
+        },
+        {
+          "title": "Congress",
+          "count": 1
+        },
+        {
+          "title": "Associated Press",
+          "count": 1
+        },
+        {
+          "title": "Bureau of Ocean Energy Management",
+          "count": 1
+        },
+        {
+          "title": "Kathy Hochul",
+          "count": 1
+        },
+        {
+          "title": "ASSOCIATED",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "data": [
+        {
+          "title": "Logan Energy",
+          "count": 1
+        },
+        {
+          "title": "Adamson",
+          "count": 1
+        },
+        {
+          "title": "Capgemini",
+          "count": 1
+        },
+        {
+          "title": "Energy and Transport Committee",
+          "count": 1
+        },
+        {
+          "title": "Griffin",
+          "count": 1
+        },
+        {
+          "title": "Wood Mackenzie",
+          "count": 1
+        },
+        {
+          "title": "Finn",
+          "count": 1
+        },
+        {
+          "title": "Dale",
+          "count": 1
+        },
+        {
+          "title": "All-Energy",
+          "count": 1
+        },
+        {
+          "title": "Kintore",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "data": [
+        {
+          "title": "Pete Hegseth",
+          "count": 3
+        },
+        {
+          "title": "Air Force",
+          "count": 3
+        },
+        {
+          "title": "Trump",
+          "count": 3
+        },
+        {
+          "title": "Pentagon",
+          "count": 3
+        },
+        {
+          "title": "Donald Trump",
+          "count": 2
+        },
+        {
+          "title": "White House",
+          "count": 2
+        },
+        {
+          "title": "Boeing",
+          "count": 2
+        },
+        {
+          "title": "Defense Department",
+          "count": 2
+        },
+        {
+          "title": "Sean Parnell",
+          "count": 2
+        },
+        {
+          "title": "Guetlein",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "data": [
+        {
+          "title": "Korean Central News Agency",
+          "count": 1
+        },
+        {
+          "title": "Navy",
+          "count": 1
+        },
+        {
+          "title": "Workers' Party",
+          "count": 1
+        },
+        {
+          "title": "Kim Jong-un",
+          "count": 1
+        },
+        {
+          "title": "Moon Keun-sik",
+          "count": 1
+        },
+        {
+          "title": "KCNA",
+          "count": 1
+        },
+        {
+          "title": "Moon",
+          "count": 1
+        },
+        {
+          "title": "Hanyang University",
+          "count": 1
+        },
+        {
+          "title": "Choe Hyon",
+          "count": 1
+        },
+        {
+          "title": "Lee Sung-joon",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "data": [
+        {
+          "title": "Sound Talent Group",
+          "count": 1
+        },
+        {
+          "title": "Velocity Records",
+          "count": 1
+        },
+        {
+          "title": "Pierce",
+          "count": 1
+        },
+        {
+          "title": "Dave Shapiro",
+          "count": 1
+        },
+        {
+          "title": "National Independent Talent Organization",
+          "count": 1
+        },
+        {
+          "title": "Matt Andersen",
+          "count": 1
+        },
+        {
+          "title": "National Transportation Safety Board",
+          "count": 1
+        },
+        {
+          "title": "Tim Borror",
+          "count": 1
+        },
+        {
+          "title": "Velocity Aviation",
+          "count": 1
+        },
+        {
+          "title": "Julia Pawlik",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "data": [
+        {
+          "title": "EU",
+          "count": 1
+        },
+        {
+          "title": "Defense Ministry",
+          "count": 1
+        },
+        {
+          "title": "Volodymyr Zelenskyy",
+          "count": 1
+        },
+        {
+          "title": "Klitschko",
+          "count": 1
+        },
+        {
+          "title": "Dmitry Peskov",
+          "count": 1
+        },
+        {
+          "title": "Sergey Lavrov",
+          "count": 1
+        },
+        {
+          "title": "Tymur Tkachenko",
+          "count": 1
+        },
+        {
+          "title": "Andrii Sybiha",
+          "count": 1
+        },
+        {
+          "title": "Kyiv City Military Administration",
+          "count": 1
+        },
+        {
+          "title": "Vitalii Klitschko",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "data": [
+        {
+          "title": "MDA",
+          "count": 1
+        },
+        {
+          "title": "AFP",
+          "count": 1
+        },
+        {
+          "title": "Hamas",
+          "count": 1
+        },
+        {
+          "title": "David Alom",
+          "count": 1
+        },
+        {
+          "title": "Defense Forces",
+          "count": 1
+        },
+        {
+          "title": "Ukrinform",
+          "count": 1
+        },
+        {
+          "title": "Air Force of the Armed Forces",
+          "count": 1
+        },
+        {
+          "title": "Air Defense Forces",
+          "count": 1
+        },
+        {
+          "title": "Millerovo",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

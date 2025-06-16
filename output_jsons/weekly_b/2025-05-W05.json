@@ -1,0 +1,142 @@
+{
+  "startDate": "2025-05-26",
+  "endDate": "2025-06-01",
+  "totalNews": 494,
+  "totalPublishers": 3,
+  "totalEvents": 3,
+  "distributionChart": [
+    {
+      "title": "Russia says West's decision to lift range limits on weapons sent to Ukraine is 'dangerous'",
+      "articleCount": 215,
+      "dateTimePub": "2025-05-26T16:49:20Z",
+      "url": "https://www.thejournal.ie/russia-ukraine-range-limits-weapons-friedrich-merz-6715411-May2025/",
+      "source": "TheJournal.ie",
+      "percentage": "43.52%"
+    },
+    {
+      "title": "Musk's SpaceX To Launch Starship Flight Test Tuesday  --  When To Watch",
+      "articleCount": 162,
+      "dateTimePub": "2025-05-27T14:32:12Z",
+      "url": "https://www.forbes.com/sites/jamiecartereurope/2025/05/27/musks-spacex-to-launch-starship-flight-test-tuesday---when-to-watch/",
+      "source": "Forbes",
+      "percentage": "32.79%"
+    },
+    {
+      "title": "North Korea says Trump's missile shield plan may spark nuclear war in space",
+      "articleCount": 117,
+      "dateTimePub": "2025-05-27T04:43:00Z",
+      "url": "https://english.alarabiya.net/News/world/2025/05/27/north-korea-says-trump-s-missile-shield-plan-may-spark-nuclear-war-in-space",
+      "source": "قناة العربية",
+      "percentage": "23.68%"
+    }
+  ],
+  "geoMapChart": [
+    {
+      "country": "Ireland",
+      "countryCode": "ie",
+      "articleCount": 215
+    },
+    {
+      "country": "United States",
+      "countryCode": "us",
+      "articleCount": 162
+    },
+    {
+      "country": "Saudi Arabia",
+      "countryCode": "sa",
+      "articleCount": 117
+    }
+  ],
+  "weeklyEntityData": [
+    {
+      "day": 1,
+      "data": [
+        {
+          "title": "Merz",
+          "count": 1
+        },
+        {
+          "title": "WDR",
+          "count": 1
+        },
+        {
+          "title": "Dmitry Peskov",
+          "count": 1
+        },
+        {
+          "title": "FRIEDRICH MERZ",
+          "count": 1
+        },
+        {
+          "title": "Trump",
+          "count": 1
+        },
+        {
+          "title": "Alamy Stock Photo Alamy Stock Photo\n\nMerz",
+          "count": 1
+        },
+        {
+          "title": "Friedrich Merz",
+          "count": 1
+        },
+        {
+          "title": "Olaf Scholz",
+          "count": 1
+        },
+        {
+          "title": "ATACMS",
+          "count": 1
+        },
+        {
+          "title": "Donald Trump",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "data": [
+        {
+          "title": "SpaceX",
+          "count": 1
+        },
+        {
+          "title": "Starship",
+          "count": 1
+        },
+        {
+          "title": "Elon Musk",
+          "count": 1
+        },
+        {
+          "title": "NASA",
+          "count": 1
+        },
+        {
+          "title": "Federal Aviation Administration",
+          "count": 1
+        },
+        {
+          "title": "Forbes",
+          "count": 1
+        },
+        {
+          "title": "Twitter",
+          "count": 1
+        },
+        {
+          "title": "Starbase",
+          "count": 1
+        },
+        {
+          "title": "Korean Central News Agency",
+          "count": 1
+        },
+        {
+          "title": "TASS",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}
